@@ -183,7 +183,13 @@
   <ItemGroup>
     <Content Include="005.ico" />
     <Content Include="050.ico" />
+    <Content Include="Click.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Magnolia.ico" />
+    <Content Include="No Sound.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Resources\Click.wav">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
