@@ -1,10 +1,11 @@
 ﻿# जय भवानी
 
 Aug 2009
-# marathi-keyboard
+# Marathi Keyboard v4.0 final
 Virtual Keyboard Software to type in Devnagri script
 
 Download setup file from "Release" folder.
+https://github.com/nitinjs/marathi-keyboard/blob/master/Release/Marathi%20Keyboard%20Setup%20v4.0%20Final.exe
 
 1. Type in marathi in any windows application easily using virtual keyboard software
 
@@ -33,6 +34,7 @@ Key Mappings:
 दुसरा उकार: U
 एक मात्रा: e
 दोन मात्रे: E
+
 
 # July 2016
 गुगलने अद्ययावत "Google Input Tools on Windows" ही प्रणाली विकसित केली आहे,
