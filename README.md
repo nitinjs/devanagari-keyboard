@@ -1,11 +1,17 @@
-﻿# जय भवानी
+Sept २०१९
+# Updates - चांगभलं
+1. Language change notification added
+2. Added buttons styling
+3. Windows 10 os compatibility updated
 
-Aug 2009
-# Marathi Keyboard v4.0 final
-Virtual Keyboard Software to type in Devnagri script
+Aug २००९
+# जय भवानी
+
+# Marathi Keyboard v४.४ final
+Virtual मराठी की-बोर्ड Software to type in Devnagri script
 
 Download setup file from "Release" folder.
-https://github.com/nitinjs/marathi-keyboard/blob/master/Release/Marathi%20Keyboard%20Setup%20v4.0%20Final.exe
+https://github.com/nitinjs/marathi-keyboard/releases/download/4.4/Marathi.Keyboard.Setup.v4.4.exe
 
 1. Type in marathi in any windows application easily using virtual keyboard software
 
@@ -37,8 +43,9 @@ Key Mappings:
 
 
 # July 2016
-गुगलने अद्ययावत "Google Input Tools on Windows" ही प्रणाली विकसित केली आहे,
-फक्त reference साठी हे software ह्या repository मध्ये अपलोड करत आहे.
+गुगलने अद्ययावत "Google Input Tools on Windows" ही प्रणाली विकसित केली आहे
 
 कृपया खालील साईटला भेट द्या:
 https://www.google.com/inputtools/windows/
+
+पण मराठी की-बोर्ड software मराठीमध्ये फास्ट टायपींग साठी वापरता येईल
