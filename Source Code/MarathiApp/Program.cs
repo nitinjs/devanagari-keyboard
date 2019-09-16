@@ -27,7 +27,11 @@ namespace MarathiApp
                 }
                 else
                 {
+                    //Application.EnableVisualStyles();
+                    //Application.Run(Kb);
+
                     Application.EnableVisualStyles();
+                    Kb.Visible = false;
                     Application.Run(Kb);
                 }
             }

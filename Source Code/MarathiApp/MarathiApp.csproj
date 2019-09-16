@@ -199,7 +199,6 @@
     <Content Include="Resources\No Sound.wav">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <None Include="Resources\1 untitled.JPG" />
     <None Include="Resources\Splash BG.JPG" />
     <None Include="Resources\GN.jpg" />
     <None Include="Resources\download.ico" />

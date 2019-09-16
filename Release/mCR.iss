@@ -8,8 +8,8 @@
 AppId={{4D7F6066-CDB0-4117-8A6F-B3D98E233BDA}
 AppName=Marathi Keyboard
 ;Version.Month.Year
-AppVerName=Marathi Keyboard 4.0
-VersionInfoVersion=4.0.0.0
+AppVerName=Marathi Keyboard 4.4
+VersionInfoVersion=4.4.0.0
 VersionInfoCopyright="Nitin Sawant"
 AppPublisher=Nitin Sawant
 AppPublisherURL=http://www.nitinsawant.com
@@ -32,8 +32,8 @@ Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{
 Name: "quicklaunchicon"; Description: "{cm:CreateQuickLaunchIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "C:\Users\Nitin\Source\Repos\marathi-keyboard\Source Code\MarathiApp\bin\Release\Marathi Keyboard.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Nitin\Source\Repos\marathi-keyboard\Source Code\MarathiApp\bin\Release\Click.wav"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Nitin\source\repos\marathi-keyboard\Source Code\MarathiApp\bin\Release\Marathi Keyboard.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Nitin\source\repos\marathi-keyboard\Source Code\MarathiApp\bin\Release\Click.wav"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Users\Nitin\Source\Repos\marathi-keyboard\Source Code\MarathiApp\bin\Release\Marathi Keyboard.application"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Users\Nitin\Source\Repos\marathi-keyboard\Source Code\MarathiApp\bin\Release\Marathi Keyboard.pdb"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Users\Nitin\Source\Repos\marathi-keyboard\Source Code\MarathiApp\bin\Release\Marathi Keyboard.exe.manifest"; DestDir: "{app}"; Flags: ignoreversion
