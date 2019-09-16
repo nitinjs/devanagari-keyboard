@@ -1,4 +1,4 @@
-# Sept २०१९ - Updates
+# Sept २०१९ 
 1. language change notification added
 2. added buttons styling
 3. windows 10 os compatibility updated
