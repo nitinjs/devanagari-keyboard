@@ -1,11 +1,18 @@
-Sept २०१९
-# Updates
+# Sept २०१९ - Updates
 1. language change notification added
 2. added buttons styling
 3. windows 10 os compatibility updated
 4. splash screen added
 
-Aug २००९
+# July २०१६
+गुगलने अद्ययावत "Google Input Tools on Windows" ही प्रणाली विकसित केली आहे
+
+कृपया खालील साईटला भेट द्या:
+https://www.google.com/inputtools/windows/
+
+पण मराठी की-बोर्ड software मराठीमध्ये फास्ट टायपींग साठी वापरता येईल
+
+# Aug २००९
 # जय भवानी
 
 # Marathi Keyboard v४.४ final
@@ -41,12 +48,3 @@ Key Mappings:
 दुसरा उकार: U
 एक मात्रा: e
 दोन मात्रे: E
-
-
-# July 2016
-गुगलने अद्ययावत "Google Input Tools on Windows" ही प्रणाली विकसित केली आहे
-
-कृपया खालील साईटला भेट द्या:
-https://www.google.com/inputtools/windows/
-
-पण मराठी की-बोर्ड software मराठीमध्ये फास्ट टायपींग साठी वापरता येईल
