@@ -1,8 +1,9 @@
 Sept २०१९
-# Updates - चांगभलं
-1. Language change notification added
-2. Added buttons styling
-3. Windows 10 os compatibility updated
+# Updates
+1. language change notification added
+2. added buttons styling
+3. windows 10 os compatibility updated
+4. splash screen added
 
 Aug २००९
 # जय भवानी
