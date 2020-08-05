@@ -10,9 +10,7 @@ https://www.google.com/inputtools/windows/
 
 पण मराठी की-बोर्ड software मराठीमध्ये फास्ट टायपींग साठी वापरता येईल
 
-# जय भवानी
-
-# Marathi Keyboard v४.४ final
+# Marathi Keyboard v4.4 final
 Virtual मराठी की-बोर्ड Software to type in Devnagri script
 
 Download setup file from "Release" folder.
@@ -45,5 +43,8 @@ Key Mappings:
 दुसरा उकार: U
 एक मात्रा: e
 दोन मात्रे: E
+
+For जोडाक्षरे press "SHIFT + A" to join the words
+so if you want to write "क्रुपा" you need to type "kArupa" 
 
 [donate](https://paypal.me/nitinsa1?locale.x=en_GB)
