@@ -21,28 +21,20 @@ https://github.com/nitinjs/marathi-keyboard/releases/download/4.4/Marathi.Keyboa
 2. To switch between Marathi & Hindi language typing mode press "Ctrl+M"
 
 Key Mappings:
-
-अ : A    आ : a    इ : i    ई: I    उ: u    ऊ: U   
-ए: e    ऐ: E    ओ: o    औ: O    अं: N    अ: : :
-
-क : k    ख : K    ग : g    घ : G    ङ    
-च : c    छ : C    ज : j    झ : jH    ञ : Y   
-ट : T    ठ : TH    ड : D    ढ : DH    ण : nH   
-त : t    थ : tH    द : d    ध : dH    न : n   
-प : p    फ : pH    ब : b    भ : bH    म : m   
-य : y    र : r    ल : l    व : v   
-श : sH    ष : S    स : s   
-ह : h    ळ : L    क्ष : x    ज्ञ : Z
-
-श्र: W    ॐ : Q    कृ: @
-
-काना: a
-पहिली वेलांटी: i
-दुसरी वेलांटी: I
-पहिला उकार: u
-दुसरा उकार: U
-एक मात्रा: e
-दोन मात्रे: E
+|     अ : A     |    आ : a   |    इ : i   |    ई: I    |    उ: u   |        ऊ: U        |
+|:-------------:|:----------:|:----------:|:----------:|:---------:|:------------------:|
+|      ए: e     |    ऐ: E    |    ओ: o    |    औ: O    |    अं: N   |       अ: : :       |
+|     क : k     |    ख : K   |    ग : g   |    घ : G   |     ङ     |                    |
+|     च : c     |    छ : C   |    ज : j   |   झ : jH   |   ञ : Y   |                    |
+|     ट : T     |   ठ : TH   |    ड : D   |   ढ : DH   |   ण : nH  |                    |
+|     त : t     |   थ : tH   |    द : d   |   ध : dH   |   न : n   |                    |
+|     प : p     |   फ : pH   |    ब : b   |   भ : bH   |   म : m   |                    |
+|     य : y     |    र : r   |    ल : l   |    व : v   |           |                    |
+|     श : sH    |    ष : S   |    स : s   |            |           |                    |
+|     ह : h     |    ळ : L   |   क्ष : x   |   ज्ञ : Z   |           |                    |
+|               |            |            |            |           |                    |
+|     श्र: W     |    ॐ : Q   |    कृ: @    | 1 मात्रा: e | 2 मात्रे: E |                    |
+| काना: a       | 1 वेलांटी: i | 2 वेलांटी: I |  1 उकार: u | 2 उकार: U |                    |
 
 For जोडाक्षरे press "SHIFT + A" to join the words
 so if you want to write "क्रुपा" you need to type "kArupa" 
