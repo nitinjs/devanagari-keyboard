@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarathiApp", "MarathiApp\MarathiApp.csproj", "{18A0E79E-B5AB-40F8-96CF-D516E1ADF3F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevanagariApp", "DevanagariApp\DevanagariApp.csproj", "{18A0E79E-B5AB-40F8-96CF-D516E1ADF3F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

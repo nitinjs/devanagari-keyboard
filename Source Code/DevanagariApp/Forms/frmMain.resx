@@ -122,70 +122,58 @@
   </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="hideToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>166, 22</value>
+    <value>194, 26</value>
   </data>
   <data name="hideToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;Hide</value>
   </data>
   <data name="clearToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>166, 22</value>
+    <value>194, 26</value>
   </data>
   <data name="clearToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;Clear text</value>
   </data>
   <data name="enabledToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>166, 22</value>
+    <value>194, 26</value>
   </data>
   <data name="enabledToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;Enabled    Ctrl+M</value>
   </data>
   <data name="onToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>91, 22</value>
+    <value>113, 26</value>
   </data>
   <data name="onToolStripMenuItem.Text" xml:space="preserve">
     <value>On</value>
   </data>
   <data name="offToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>91, 22</value>
+    <value>113, 26</value>
   </data>
   <data name="offToolStripMenuItem.Text" xml:space="preserve">
     <value>Off</value>
   </data>
   <data name="clickSoundToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>166, 22</value>
+    <value>194, 26</value>
   </data>
   <data name="clickSoundToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;Sound</value>
   </data>
   <data name="toolStripSeparator1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>163, 6</value>
+    <value>191, 6</value>
   </data>
-  <data name="helpToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>150, 22</value>
+  <data name="aboutToolStripMenuItem2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>194, 26</value>
   </data>
-  <data name="helpToolStripMenuItem1.Text" xml:space="preserve">
-    <value>Help &amp;Contents</value>
-  </data>
-  <data name="aboutToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>150, 22</value>
-  </data>
-  <data name="aboutToolStripMenuItem1.Text" xml:space="preserve">
+  <data name="aboutToolStripMenuItem2.Text" xml:space="preserve">
     <value>&amp;About</value>
   </data>
-  <data name="aboutToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>166, 22</value>
-  </data>
-  <data name="aboutToolStripMenuItem.Text" xml:space="preserve">
-    <value>&amp;Help</value>
-  </data>
   <data name="exitToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>166, 22</value>
+    <value>194, 26</value>
   </data>
   <data name="exitToolStripMenuItem.Text" xml:space="preserve">
     <value>E&amp;xit</value>
   </data>
   <data name="ctxMarathi.Size" type="System.Drawing.Size, System.Drawing">
-    <value>167, 142</value>
+    <value>195, 166</value>
   </data>
   <data name="&gt;&gt;ctxMarathi.Name" xml:space="preserve">
     <value>ctxMarathi</value>
@@ -196,40 +184,43 @@
   <metadata name="ttpKey.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>120, 17</value>
   </metadata>
-  <data name="button66.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
+  <data name="button67.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="button66.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="button67.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="button66.Location" type="System.Drawing.Point, System.Drawing">
-    <value>365, 54</value>
+  <data name="button67.Location" type="System.Drawing.Point, System.Drawing">
+    <value>589, 167</value>
   </data>
-  <data name="button66.Size" type="System.Drawing.Size, System.Drawing">
-    <value>74, 35</value>
+  <data name="button67.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button67.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="button66.TabIndex" type="System.Int32, mscorlib">
-    <value>151</value>
+  <data name="button67.TabIndex" type="System.Int32, mscorlib">
+    <value>154</value>
   </data>
-  <data name="button66.Text" xml:space="preserve">
-    <value>मागे</value>
+  <data name="button67.Text" xml:space="preserve">
+    <value>ऑ</value>
   </data>
-  <data name="button66.ToolTip" xml:space="preserve">
-    <value>Backspace</value>
+  <data name="button67.ToolTip" xml:space="preserve">
+    <value>~</value>
   </data>
-  <data name="&gt;&gt;button66.Name" xml:space="preserve">
-    <value>button66</value>
+  <data name="&gt;&gt;button67.Name" xml:space="preserve">
+    <value>button67</value>
   </data>
-  <data name="&gt;&gt;button66.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
+  <data name="&gt;&gt;button67.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
   </data>
-  <data name="&gt;&gt;button66.Parent" xml:space="preserve">
+  <data name="&gt;&gt;button67.Parent" xml:space="preserve">
     <value>groupBox1</value>
   </data>
-  <data name="&gt;&gt;button66.ZOrder" xml:space="preserve">
-    <value>2</value>
+  <data name="&gt;&gt;button67.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="btnEnter.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 9.75pt</value>
@@ -238,10 +229,13 @@
     <value>NoControl</value>
   </data>
   <data name="btnEnter.Location" type="System.Drawing.Point, System.Drawing">
-    <value>406, 177</value>
+    <value>541, 218</value>
+  </data>
+  <data name="btnEnter.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
   </data>
   <data name="btnEnter.Size" type="System.Drawing.Size, System.Drawing">
-    <value>58, 35</value>
+    <value>77, 43</value>
   </data>
   <data name="btnEnter.TabIndex" type="System.Int32, mscorlib">
     <value>153</value>
@@ -256,7 +250,7 @@
     <value>btnEnter</value>
   </data>
   <data name="&gt;&gt;btnEnter.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;btnEnter.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -264,17 +258,56 @@
   <data name="&gt;&gt;btnEnter.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <data name="button66.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button66.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button66.Location" type="System.Drawing.Point, System.Drawing">
+    <value>487, 66</value>
+  </data>
+  <data name="button66.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button66.Size" type="System.Drawing.Size, System.Drawing">
+    <value>99, 43</value>
+  </data>
+  <data name="button66.TabIndex" type="System.Int32, mscorlib">
+    <value>151</value>
+  </data>
+  <data name="button66.Text" xml:space="preserve">
+    <value>मागे</value>
+  </data>
+  <data name="button66.ToolTip" xml:space="preserve">
+    <value>Backspace</value>
+  </data>
+  <data name="&gt;&gt;button66.Name" xml:space="preserve">
+    <value>button66</value>
+  </data>
+  <data name="&gt;&gt;button66.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button66.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button66.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
   <data name="button59.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
+    <value>Microsoft Sans Serif, 11.25pt</value>
   </data>
   <data name="button59.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="button59.Location" type="System.Drawing.Point, System.Drawing">
-    <value>566, 95</value>
+    <value>755, 117</value>
+  </data>
+  <data name="button59.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
   </data>
   <data name="button59.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
+    <value>45, 43</value>
   </data>
   <data name="button59.TabIndex" type="System.Int32, mscorlib">
     <value>148</value>
@@ -289,7 +322,7 @@
     <value>button59</value>
   </data>
   <data name="&gt;&gt;button59.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button59.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -297,2129 +330,20 @@
   <data name="&gt;&gt;button59.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="button60.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button60.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button60.Location" type="System.Drawing.Point, System.Drawing">
-    <value>486, 54</value>
-  </data>
-  <data name="button60.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button60.TabIndex" type="System.Int32, mscorlib">
-    <value>147</value>
-  </data>
-  <data name="button60.Text" xml:space="preserve">
-    <value>७</value>
-  </data>
-  <data name="button60.ToolTip" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;button60.Name" xml:space="preserve">
-    <value>button60</value>
-  </data>
-  <data name="&gt;&gt;button60.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button60.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button60.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="button61.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button61.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button61.Location" type="System.Drawing.Point, System.Drawing">
-    <value>526, 54</value>
-  </data>
-  <data name="button61.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button61.TabIndex" type="System.Int32, mscorlib">
-    <value>146</value>
-  </data>
-  <data name="button61.Text" xml:space="preserve">
-    <value>८</value>
-  </data>
-  <data name="button61.ToolTip" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;button61.Name" xml:space="preserve">
-    <value>button61</value>
-  </data>
-  <data name="&gt;&gt;button61.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button61.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button61.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="button62.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button62.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button62.Location" type="System.Drawing.Point, System.Drawing">
-    <value>566, 54</value>
-  </data>
-  <data name="button62.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button62.TabIndex" type="System.Int32, mscorlib">
-    <value>145</value>
-  </data>
-  <data name="button62.Text" xml:space="preserve">
-    <value>९</value>
-  </data>
-  <data name="button62.ToolTip" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;button62.Name" xml:space="preserve">
-    <value>button62</value>
-  </data>
-  <data name="&gt;&gt;button62.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button62.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button62.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="button63.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button63.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button63.Location" type="System.Drawing.Point, System.Drawing">
-    <value>486, 177</value>
-  </data>
-  <data name="button63.Size" type="System.Drawing.Size, System.Drawing">
-    <value>74, 35</value>
-  </data>
-  <data name="button63.TabIndex" type="System.Int32, mscorlib">
-    <value>144</value>
-  </data>
-  <data name="button63.Text" xml:space="preserve">
-    <value>०</value>
-  </data>
-  <data name="button63.ToolTip" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;button63.Name" xml:space="preserve">
-    <value>button63</value>
-  </data>
-  <data name="&gt;&gt;button63.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button63.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button63.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="button53.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button53.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button53.Location" type="System.Drawing.Point, System.Drawing">
-    <value>566, 177</value>
-  </data>
-  <data name="button53.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button53.TabIndex" type="System.Int32, mscorlib">
-    <value>138</value>
-  </data>
-  <data name="button53.Text" xml:space="preserve">
-    <value>श्र</value>
-  </data>
-  <data name="button53.ToolTip" xml:space="preserve">
-    <value>W</value>
-  </data>
-  <data name="&gt;&gt;button53.Name" xml:space="preserve">
-    <value>button53</value>
-  </data>
-  <data name="&gt;&gt;button53.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button53.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button53.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="button54.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button54.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button54.Location" type="System.Drawing.Point, System.Drawing">
-    <value>486, 136</value>
-  </data>
-  <data name="button54.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button54.TabIndex" type="System.Int32, mscorlib">
-    <value>143</value>
-  </data>
-  <data name="button54.Text" xml:space="preserve">
-    <value>१</value>
-  </data>
-  <data name="button54.ToolTip" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;button54.Name" xml:space="preserve">
-    <value>button54</value>
-  </data>
-  <data name="&gt;&gt;button54.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button54.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button54.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="button55.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button55.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button55.Location" type="System.Drawing.Point, System.Drawing">
-    <value>526, 136</value>
-  </data>
-  <data name="button55.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button55.TabIndex" type="System.Int32, mscorlib">
-    <value>142</value>
-  </data>
-  <data name="button55.Text" xml:space="preserve">
-    <value>२</value>
-  </data>
-  <data name="button55.ToolTip" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;button55.Name" xml:space="preserve">
-    <value>button55</value>
-  </data>
-  <data name="&gt;&gt;button55.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button55.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button55.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
-  <data name="button56.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button56.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button56.Location" type="System.Drawing.Point, System.Drawing">
-    <value>566, 136</value>
-  </data>
-  <data name="button56.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button56.TabIndex" type="System.Int32, mscorlib">
-    <value>141</value>
-  </data>
-  <data name="button56.Text" xml:space="preserve">
-    <value>३</value>
-  </data>
-  <data name="button56.ToolTip" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;button56.Name" xml:space="preserve">
-    <value>button56</value>
-  </data>
-  <data name="&gt;&gt;button56.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button56.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button56.ZOrder" xml:space="preserve">
-    <value>13</value>
-  </data>
-  <data name="button57.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button57.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button57.Location" type="System.Drawing.Point, System.Drawing">
-    <value>486, 95</value>
-  </data>
-  <data name="button57.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button57.TabIndex" type="System.Int32, mscorlib">
-    <value>140</value>
-  </data>
-  <data name="button57.Text" xml:space="preserve">
-    <value>४</value>
-  </data>
-  <data name="button57.ToolTip" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;button57.Name" xml:space="preserve">
-    <value>button57</value>
-  </data>
-  <data name="&gt;&gt;button57.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button57.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button57.ZOrder" xml:space="preserve">
-    <value>14</value>
-  </data>
-  <data name="button58.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button58.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button58.Location" type="System.Drawing.Point, System.Drawing">
-    <value>526, 95</value>
-  </data>
-  <data name="button58.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button58.TabIndex" type="System.Int32, mscorlib">
-    <value>139</value>
-  </data>
-  <data name="button58.Text" xml:space="preserve">
-    <value>५</value>
-  </data>
-  <data name="button58.ToolTip" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;button58.Name" xml:space="preserve">
-    <value>button58</value>
-  </data>
-  <data name="&gt;&gt;button58.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button58.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button58.ZOrder" xml:space="preserve">
-    <value>15</value>
-  </data>
-  <data name="button49.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button49.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button49.Location" type="System.Drawing.Point, System.Drawing">
-    <value>286, 177</value>
-  </data>
-  <data name="button49.Size" type="System.Drawing.Size, System.Drawing">
-    <value>114, 35</value>
-  </data>
-  <data name="button49.TabIndex" type="System.Int32, mscorlib">
-    <value>134</value>
-  </data>
-  <data name="button49.Text" xml:space="preserve">
-    <value>स्पेस</value>
-  </data>
-  <data name="button49.ToolTip" xml:space="preserve">
-    <value>Spacebar</value>
-  </data>
-  <data name="&gt;&gt;button49.Name" xml:space="preserve">
-    <value>button49</value>
-  </data>
-  <data name="&gt;&gt;button49.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button49.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button49.ZOrder" xml:space="preserve">
-    <value>16</value>
-  </data>
-  <data name="button51.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button51.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button51.Location" type="System.Drawing.Point, System.Drawing">
-    <value>565, 9</value>
-  </data>
-  <data name="button51.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button51.TabIndex" type="System.Int32, mscorlib">
-    <value>136</value>
-  </data>
-  <data name="button51.Text" xml:space="preserve">
-    <value>त्र</value>
-  </data>
-  <data name="button51.ToolTip" xml:space="preserve">
-    <value>P</value>
-  </data>
-  <data name="&gt;&gt;button51.Name" xml:space="preserve">
-    <value>button51</value>
-  </data>
-  <data name="&gt;&gt;button51.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button51.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button51.ZOrder" xml:space="preserve">
-    <value>18</value>
-  </data>
-  <data name="button50.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button50.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button50.Location" type="System.Drawing.Point, System.Drawing">
-    <value>408, 94</value>
-  </data>
-  <data name="button50.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button50.TabIndex" type="System.Int32, mscorlib">
-    <value>135</value>
-  </data>
-  <data name="button50.Text" xml:space="preserve">
-    <value>ऋ</value>
-  </data>
-  <data name="button50.ToolTip" xml:space="preserve">
-    <value>R</value>
-  </data>
-  <data name="&gt;&gt;button50.Name" xml:space="preserve">
-    <value>button50</value>
-  </data>
-  <data name="&gt;&gt;button50.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button50.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button50.ZOrder" xml:space="preserve">
-    <value>19</value>
-  </data>
-  <data name="button48.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button48.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button48.Location" type="System.Drawing.Point, System.Drawing">
-    <value>45, 9</value>
-  </data>
-  <data name="button48.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button48.TabIndex" type="System.Int32, mscorlib">
-    <value>133</value>
-  </data>
-  <data name="button48.Text" xml:space="preserve">
-    <value>अ</value>
-  </data>
-  <data name="button48.ToolTip" xml:space="preserve">
-    <value>A</value>
-  </data>
-  <data name="&gt;&gt;button48.Name" xml:space="preserve">
-    <value>button48</value>
-  </data>
-  <data name="&gt;&gt;button48.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button48.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button48.ZOrder" xml:space="preserve">
-    <value>20</value>
-  </data>
-  <data name="button47.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button47.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button47.Location" type="System.Drawing.Point, System.Drawing">
-    <value>85, 9</value>
-  </data>
-  <data name="button47.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button47.TabIndex" type="System.Int32, mscorlib">
-    <value>132</value>
-  </data>
-  <data name="button47.Text" xml:space="preserve">
-    <value>आ</value>
-  </data>
-  <data name="button47.ToolTip" xml:space="preserve">
-    <value>a</value>
-  </data>
-  <data name="&gt;&gt;button47.Name" xml:space="preserve">
-    <value>button47</value>
-  </data>
-  <data name="&gt;&gt;button47.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button47.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button47.ZOrder" xml:space="preserve">
-    <value>21</value>
-  </data>
-  <data name="button38.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button38.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button38.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 9</value>
-  </data>
-  <data name="button38.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button38.TabIndex" type="System.Int32, mscorlib">
-    <value>123</value>
-  </data>
-  <data name="button38.Text" xml:space="preserve">
-    <value>ॐ</value>
-  </data>
-  <data name="button38.ToolTip" xml:space="preserve">
-    <value>Q</value>
-  </data>
-  <data name="&gt;&gt;button38.Name" xml:space="preserve">
-    <value>button38</value>
-  </data>
-  <data name="&gt;&gt;button38.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button38.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button38.ZOrder" xml:space="preserve">
-    <value>22</value>
-  </data>
-  <data name="button46.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button46.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button46.Location" type="System.Drawing.Point, System.Drawing">
-    <value>125, 9</value>
-  </data>
-  <data name="button46.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button46.TabIndex" type="System.Int32, mscorlib">
-    <value>131</value>
-  </data>
-  <data name="button46.Text" xml:space="preserve">
-    <value>इ</value>
-  </data>
-  <data name="button46.ToolTip" xml:space="preserve">
-    <value>i</value>
-  </data>
-  <data name="&gt;&gt;button46.Name" xml:space="preserve">
-    <value>button46</value>
-  </data>
-  <data name="&gt;&gt;button46.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button46.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button46.ZOrder" xml:space="preserve">
-    <value>23</value>
-  </data>
-  <data name="button35.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button35.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button35.Location" type="System.Drawing.Point, System.Drawing">
-    <value>246, 177</value>
-  </data>
-  <data name="button35.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button35.TabIndex" type="System.Int32, mscorlib">
-    <value>120</value>
-  </data>
-  <data name="button35.Text" xml:space="preserve">
-    <value>ज्ञ</value>
-  </data>
-  <data name="button35.ToolTip" xml:space="preserve">
-    <value>Z</value>
-  </data>
-  <data name="&gt;&gt;button35.Name" xml:space="preserve">
-    <value>button35</value>
-  </data>
-  <data name="&gt;&gt;button35.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button35.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button35.ZOrder" xml:space="preserve">
-    <value>24</value>
-  </data>
-  <data name="button45.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button45.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button45.Location" type="System.Drawing.Point, System.Drawing">
-    <value>165, 9</value>
-  </data>
-  <data name="button45.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button45.TabIndex" type="System.Int32, mscorlib">
-    <value>130</value>
-  </data>
-  <data name="button45.Text" xml:space="preserve">
-    <value>ई</value>
-  </data>
-  <data name="button45.ToolTip" xml:space="preserve">
-    <value>I</value>
-  </data>
-  <data name="&gt;&gt;button45.Name" xml:space="preserve">
-    <value>button45</value>
-  </data>
-  <data name="&gt;&gt;button45.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button45.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button45.ZOrder" xml:space="preserve">
-    <value>25</value>
-  </data>
-  <data name="button44.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button44.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button44.Location" type="System.Drawing.Point, System.Drawing">
-    <value>285, 9</value>
-  </data>
-  <data name="button44.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button44.TabIndex" type="System.Int32, mscorlib">
-    <value>129</value>
-  </data>
-  <data name="button44.Text" xml:space="preserve">
-    <value>ए</value>
-  </data>
-  <data name="button44.ToolTip" xml:space="preserve">
-    <value>e</value>
-  </data>
-  <data name="&gt;&gt;button44.Name" xml:space="preserve">
-    <value>button44</value>
-  </data>
-  <data name="&gt;&gt;button44.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button44.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button44.ZOrder" xml:space="preserve">
-    <value>26</value>
-  </data>
-  <data name="button43.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button43.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button43.Location" type="System.Drawing.Point, System.Drawing">
-    <value>325, 9</value>
-  </data>
-  <data name="button43.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button43.TabIndex" type="System.Int32, mscorlib">
-    <value>128</value>
-  </data>
-  <data name="button43.Text" xml:space="preserve">
-    <value>ऐ</value>
-  </data>
-  <data name="button43.ToolTip" xml:space="preserve">
-    <value>E</value>
-  </data>
-  <data name="&gt;&gt;button43.Name" xml:space="preserve">
-    <value>button43</value>
-  </data>
-  <data name="&gt;&gt;button43.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button43.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button43.ZOrder" xml:space="preserve">
-    <value>27</value>
-  </data>
-  <data name="button42.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button42.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button42.Location" type="System.Drawing.Point, System.Drawing">
-    <value>365, 9</value>
-  </data>
-  <data name="button42.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button42.TabIndex" type="System.Int32, mscorlib">
-    <value>127</value>
-  </data>
-  <data name="button42.Text" xml:space="preserve">
-    <value>ओ</value>
-  </data>
-  <data name="button42.ToolTip" xml:space="preserve">
-    <value>o</value>
-  </data>
-  <data name="&gt;&gt;button42.Name" xml:space="preserve">
-    <value>button42</value>
-  </data>
-  <data name="&gt;&gt;button42.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button42.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button42.ZOrder" xml:space="preserve">
-    <value>28</value>
-  </data>
-  <data name="button41.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button41.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button41.Location" type="System.Drawing.Point, System.Drawing">
-    <value>405, 9</value>
-  </data>
-  <data name="button41.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button41.TabIndex" type="System.Int32, mscorlib">
-    <value>126</value>
-  </data>
-  <data name="button41.Text" xml:space="preserve">
-    <value>औ</value>
-  </data>
-  <data name="button41.ToolTip" xml:space="preserve">
-    <value>O</value>
-  </data>
-  <data name="&gt;&gt;button41.Name" xml:space="preserve">
-    <value>button41</value>
-  </data>
-  <data name="&gt;&gt;button41.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button41.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button41.ZOrder" xml:space="preserve">
-    <value>29</value>
-  </data>
-  <data name="button40.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button40.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button40.Location" type="System.Drawing.Point, System.Drawing">
-    <value>445, 9</value>
-  </data>
-  <data name="button40.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button40.TabIndex" type="System.Int32, mscorlib">
-    <value>125</value>
-  </data>
-  <data name="button40.Text" xml:space="preserve">
-    <value>अं</value>
-  </data>
-  <data name="button40.ToolTip" xml:space="preserve">
-    <value>N</value>
-  </data>
-  <data name="&gt;&gt;button40.Name" xml:space="preserve">
-    <value>button40</value>
-  </data>
-  <data name="&gt;&gt;button40.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button40.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button40.ZOrder" xml:space="preserve">
-    <value>30</value>
-  </data>
-  <data name="button39.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button39.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button39.Location" type="System.Drawing.Point, System.Drawing">
-    <value>485, 9</value>
-  </data>
-  <data name="button39.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button39.TabIndex" type="System.Int32, mscorlib">
-    <value>124</value>
-  </data>
-  <data name="button39.Text" xml:space="preserve">
-    <value>अः</value>
-  </data>
-  <data name="button39.ToolTip" xml:space="preserve">
-    <value>:</value>
-  </data>
-  <data name="&gt;&gt;button39.Name" xml:space="preserve">
-    <value>button39</value>
-  </data>
-  <data name="&gt;&gt;button39.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button39.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button39.ZOrder" xml:space="preserve">
-    <value>31</value>
-  </data>
-  <data name="button34.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button34.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button34.Location" type="System.Drawing.Point, System.Drawing">
-    <value>282, 136</value>
-  </data>
-  <data name="button34.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button34.TabIndex" type="System.Int32, mscorlib">
-    <value>119</value>
-  </data>
-  <data name="button34.Text" xml:space="preserve">
-    <value>ल</value>
-  </data>
-  <data name="button34.ToolTip" xml:space="preserve">
-    <value>l</value>
-  </data>
-  <data name="&gt;&gt;button34.Name" xml:space="preserve">
-    <value>button34</value>
-  </data>
-  <data name="&gt;&gt;button34.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button34.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button34.ZOrder" xml:space="preserve">
-    <value>32</value>
-  </data>
-  <data name="button37.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button37.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button37.Location" type="System.Drawing.Point, System.Drawing">
-    <value>205, 9</value>
-  </data>
-  <data name="button37.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button37.TabIndex" type="System.Int32, mscorlib">
-    <value>122</value>
-  </data>
-  <data name="button37.Text" xml:space="preserve">
-    <value>उ</value>
-  </data>
-  <data name="button37.ToolTip" xml:space="preserve">
-    <value>u</value>
-  </data>
-  <data name="&gt;&gt;button37.Name" xml:space="preserve">
-    <value>button37</value>
-  </data>
-  <data name="&gt;&gt;button37.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button37.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button37.ZOrder" xml:space="preserve">
-    <value>33</value>
-  </data>
-  <data name="button36.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button36.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button36.Location" type="System.Drawing.Point, System.Drawing">
-    <value>245, 9</value>
-  </data>
-  <data name="button36.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button36.TabIndex" type="System.Int32, mscorlib">
-    <value>121</value>
-  </data>
-  <data name="button36.Text" xml:space="preserve">
-    <value>ऊ</value>
-  </data>
-  <data name="button36.ToolTip" xml:space="preserve">
-    <value>U</value>
-  </data>
-  <data name="&gt;&gt;button36.Name" xml:space="preserve">
-    <value>button36</value>
-  </data>
-  <data name="&gt;&gt;button36.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button36.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button36.ZOrder" xml:space="preserve">
-    <value>34</value>
-  </data>
-  <data name="button33.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button33.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button33.Location" type="System.Drawing.Point, System.Drawing">
-    <value>322, 136</value>
-  </data>
-  <data name="button33.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button33.TabIndex" type="System.Int32, mscorlib">
-    <value>118</value>
-  </data>
-  <data name="button33.Text" xml:space="preserve">
-    <value>व</value>
-  </data>
-  <data name="button33.ToolTip" xml:space="preserve">
-    <value>v</value>
-  </data>
-  <data name="&gt;&gt;button33.Name" xml:space="preserve">
-    <value>button33</value>
-  </data>
-  <data name="&gt;&gt;button33.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button33.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button33.ZOrder" xml:space="preserve">
-    <value>35</value>
-  </data>
-  <data name="button32.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button32.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button32.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 177</value>
-  </data>
-  <data name="button32.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button32.TabIndex" type="System.Int32, mscorlib">
-    <value>117</value>
-  </data>
-  <data name="button32.Text" xml:space="preserve">
-    <value>श</value>
-  </data>
-  <data name="button32.ToolTip" xml:space="preserve">
-    <value>sH</value>
-  </data>
-  <data name="&gt;&gt;button32.Name" xml:space="preserve">
-    <value>button32</value>
-  </data>
-  <data name="&gt;&gt;button32.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button32.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button32.ZOrder" xml:space="preserve">
-    <value>36</value>
-  </data>
-  <data name="button31.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button31.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button31.Location" type="System.Drawing.Point, System.Drawing">
-    <value>46, 177</value>
-  </data>
-  <data name="button31.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button31.TabIndex" type="System.Int32, mscorlib">
-    <value>116</value>
-  </data>
-  <data name="button31.Text" xml:space="preserve">
-    <value>ष</value>
-  </data>
-  <data name="button31.ToolTip" xml:space="preserve">
-    <value>S</value>
-  </data>
-  <data name="&gt;&gt;button31.Name" xml:space="preserve">
-    <value>button31</value>
-  </data>
-  <data name="&gt;&gt;button31.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button31.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button31.ZOrder" xml:space="preserve">
-    <value>37</value>
-  </data>
-  <data name="button30.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button30.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button30.Location" type="System.Drawing.Point, System.Drawing">
-    <value>86, 177</value>
-  </data>
-  <data name="button30.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button30.TabIndex" type="System.Int32, mscorlib">
-    <value>115</value>
-  </data>
-  <data name="button30.Text" xml:space="preserve">
-    <value>स</value>
-  </data>
-  <data name="button30.ToolTip" xml:space="preserve">
-    <value>s</value>
-  </data>
-  <data name="&gt;&gt;button30.Name" xml:space="preserve">
-    <value>button30</value>
-  </data>
-  <data name="&gt;&gt;button30.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button30.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button30.ZOrder" xml:space="preserve">
-    <value>38</value>
-  </data>
-  <data name="button29.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button29.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button29.Location" type="System.Drawing.Point, System.Drawing">
-    <value>126, 177</value>
-  </data>
-  <data name="button29.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button29.TabIndex" type="System.Int32, mscorlib">
-    <value>114</value>
-  </data>
-  <data name="button29.Text" xml:space="preserve">
-    <value>ह</value>
-  </data>
-  <data name="button29.ToolTip" xml:space="preserve">
-    <value>h</value>
-  </data>
-  <data name="&gt;&gt;button29.Name" xml:space="preserve">
-    <value>button29</value>
-  </data>
-  <data name="&gt;&gt;button29.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button29.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button29.ZOrder" xml:space="preserve">
-    <value>39</value>
-  </data>
-  <data name="button28.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button28.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button28.Location" type="System.Drawing.Point, System.Drawing">
-    <value>166, 177</value>
-  </data>
-  <data name="button28.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button28.TabIndex" type="System.Int32, mscorlib">
-    <value>113</value>
-  </data>
-  <data name="button28.Text" xml:space="preserve">
-    <value>ळ</value>
-  </data>
-  <data name="button28.ToolTip" xml:space="preserve">
-    <value>L</value>
-  </data>
-  <data name="&gt;&gt;button28.Name" xml:space="preserve">
-    <value>button28</value>
-  </data>
-  <data name="&gt;&gt;button28.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button28.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button28.ZOrder" xml:space="preserve">
-    <value>40</value>
-  </data>
-  <data name="button27.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button27.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button27.Location" type="System.Drawing.Point, System.Drawing">
-    <value>206, 177</value>
-  </data>
-  <data name="button27.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button27.TabIndex" type="System.Int32, mscorlib">
-    <value>112</value>
-  </data>
-  <data name="button27.Text" xml:space="preserve">
-    <value>क्ष</value>
-  </data>
-  <data name="button27.ToolTip" xml:space="preserve">
-    <value>x</value>
-  </data>
-  <data name="&gt;&gt;button27.Name" xml:space="preserve">
-    <value>button27</value>
-  </data>
-  <data name="&gt;&gt;button27.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button27.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button27.ZOrder" xml:space="preserve">
-    <value>41</value>
-  </data>
-  <data name="button26.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button26.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button26.Location" type="System.Drawing.Point, System.Drawing">
-    <value>45, 54</value>
-  </data>
-  <data name="button26.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button26.TabIndex" type="System.Int32, mscorlib">
-    <value>111</value>
-  </data>
-  <data name="button26.Text" xml:space="preserve">
-    <value>ख</value>
-  </data>
-  <data name="button26.ToolTip" xml:space="preserve">
-    <value>kH</value>
-  </data>
-  <data name="&gt;&gt;button26.Name" xml:space="preserve">
-    <value>button26</value>
-  </data>
-  <data name="&gt;&gt;button26.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button26.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button26.ZOrder" xml:space="preserve">
-    <value>42</value>
-  </data>
-  <data name="button25.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button25.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button25.Location" type="System.Drawing.Point, System.Drawing">
-    <value>85, 54</value>
-  </data>
-  <data name="button25.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button25.TabIndex" type="System.Int32, mscorlib">
-    <value>110</value>
-  </data>
-  <data name="button25.Text" xml:space="preserve">
-    <value>ग</value>
-  </data>
-  <data name="button25.ToolTip" xml:space="preserve">
-    <value>g</value>
-  </data>
-  <data name="&gt;&gt;button25.Name" xml:space="preserve">
-    <value>button25</value>
-  </data>
-  <data name="&gt;&gt;button25.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button25.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button25.ZOrder" xml:space="preserve">
-    <value>43</value>
-  </data>
-  <data name="button24.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button24.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button24.Location" type="System.Drawing.Point, System.Drawing">
-    <value>125, 54</value>
-  </data>
-  <data name="button24.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button24.TabIndex" type="System.Int32, mscorlib">
-    <value>109</value>
-  </data>
-  <data name="button24.Text" xml:space="preserve">
-    <value>घ</value>
-  </data>
-  <data name="button24.ToolTip" xml:space="preserve">
-    <value>gH</value>
-  </data>
-  <data name="&gt;&gt;button24.Name" xml:space="preserve">
-    <value>button24</value>
-  </data>
-  <data name="&gt;&gt;button24.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button24.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button24.ZOrder" xml:space="preserve">
-    <value>44</value>
-  </data>
-  <data name="button23.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button23.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button23.Location" type="System.Drawing.Point, System.Drawing">
-    <value>165, 54</value>
-  </data>
-  <data name="button23.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button23.TabIndex" type="System.Int32, mscorlib">
-    <value>108</value>
-  </data>
-  <data name="button23.Text" xml:space="preserve">
-    <value>च</value>
-  </data>
-  <data name="button23.ToolTip" xml:space="preserve">
-    <value>c</value>
-  </data>
-  <data name="&gt;&gt;button23.Name" xml:space="preserve">
-    <value>button23</value>
-  </data>
-  <data name="&gt;&gt;button23.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button23.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button23.ZOrder" xml:space="preserve">
-    <value>45</value>
-  </data>
-  <data name="button22.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button22.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button22.Location" type="System.Drawing.Point, System.Drawing">
-    <value>205, 54</value>
-  </data>
-  <data name="button22.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button22.TabIndex" type="System.Int32, mscorlib">
-    <value>107</value>
-  </data>
-  <data name="button22.Text" xml:space="preserve">
-    <value>छ</value>
-  </data>
-  <data name="button22.ToolTip" xml:space="preserve">
-    <value>cH</value>
-  </data>
-  <data name="&gt;&gt;button22.Name" xml:space="preserve">
-    <value>button22</value>
-  </data>
-  <data name="&gt;&gt;button22.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button22.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button22.ZOrder" xml:space="preserve">
-    <value>46</value>
-  </data>
-  <data name="button21.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button21.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button21.Location" type="System.Drawing.Point, System.Drawing">
-    <value>245, 54</value>
-  </data>
-  <data name="button21.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button21.TabIndex" type="System.Int32, mscorlib">
-    <value>106</value>
-  </data>
-  <data name="button21.Text" xml:space="preserve">
-    <value>ज</value>
-  </data>
-  <data name="button21.ToolTip" xml:space="preserve">
-    <value>j</value>
-  </data>
-  <data name="&gt;&gt;button21.Name" xml:space="preserve">
-    <value>button21</value>
-  </data>
-  <data name="&gt;&gt;button21.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button21.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button21.ZOrder" xml:space="preserve">
-    <value>47</value>
-  </data>
-  <data name="button20.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button20.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button20.Location" type="System.Drawing.Point, System.Drawing">
-    <value>285, 54</value>
-  </data>
-  <data name="button20.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button20.TabIndex" type="System.Int32, mscorlib">
-    <value>105</value>
-  </data>
-  <data name="button20.Text" xml:space="preserve">
-    <value>झ</value>
-  </data>
-  <data name="button20.ToolTip" xml:space="preserve">
-    <value>jH</value>
-  </data>
-  <data name="&gt;&gt;button20.Name" xml:space="preserve">
-    <value>button20</value>
-  </data>
-  <data name="&gt;&gt;button20.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button20.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button20.ZOrder" xml:space="preserve">
-    <value>48</value>
-  </data>
-  <data name="button19.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button19.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button19.Location" type="System.Drawing.Point, System.Drawing">
-    <value>8, 94</value>
-  </data>
-  <data name="button19.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button19.TabIndex" type="System.Int32, mscorlib">
-    <value>104</value>
-  </data>
-  <data name="button19.Text" xml:space="preserve">
-    <value>ट</value>
-  </data>
-  <data name="button19.ToolTip" xml:space="preserve">
-    <value>T</value>
-  </data>
-  <data name="&gt;&gt;button19.Name" xml:space="preserve">
-    <value>button19</value>
-  </data>
-  <data name="&gt;&gt;button19.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button19.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button19.ZOrder" xml:space="preserve">
-    <value>49</value>
-  </data>
-  <data name="button18.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button18.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button18.Location" type="System.Drawing.Point, System.Drawing">
-    <value>48, 94</value>
-  </data>
-  <data name="button18.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button18.TabIndex" type="System.Int32, mscorlib">
-    <value>103</value>
-  </data>
-  <data name="button18.Text" xml:space="preserve">
-    <value>ठ</value>
-  </data>
-  <data name="button18.ToolTip" xml:space="preserve">
-    <value>TH</value>
-  </data>
-  <data name="&gt;&gt;button18.Name" xml:space="preserve">
-    <value>button18</value>
-  </data>
-  <data name="&gt;&gt;button18.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button18.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button18.ZOrder" xml:space="preserve">
-    <value>50</value>
-  </data>
-  <data name="button17.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button17.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button17.Location" type="System.Drawing.Point, System.Drawing">
-    <value>88, 94</value>
-  </data>
-  <data name="button17.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button17.TabIndex" type="System.Int32, mscorlib">
-    <value>102</value>
-  </data>
-  <data name="button17.Text" xml:space="preserve">
-    <value>ड</value>
-  </data>
-  <data name="button17.ToolTip" xml:space="preserve">
-    <value>D</value>
-  </data>
-  <data name="&gt;&gt;button17.Name" xml:space="preserve">
-    <value>button17</value>
-  </data>
-  <data name="&gt;&gt;button17.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button17.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button17.ZOrder" xml:space="preserve">
-    <value>51</value>
-  </data>
-  <data name="button16.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button16.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button16.Location" type="System.Drawing.Point, System.Drawing">
-    <value>128, 94</value>
-  </data>
-  <data name="button16.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button16.TabIndex" type="System.Int32, mscorlib">
-    <value>101</value>
-  </data>
-  <data name="button16.Text" xml:space="preserve">
-    <value>ढ</value>
-  </data>
-  <data name="button16.ToolTip" xml:space="preserve">
-    <value>DH</value>
-  </data>
-  <data name="&gt;&gt;button16.Name" xml:space="preserve">
-    <value>button16</value>
-  </data>
-  <data name="&gt;&gt;button16.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button16.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button16.ZOrder" xml:space="preserve">
-    <value>52</value>
-  </data>
-  <data name="button15.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button15.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button15.Location" type="System.Drawing.Point, System.Drawing">
-    <value>168, 94</value>
-  </data>
-  <data name="button15.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button15.TabIndex" type="System.Int32, mscorlib">
-    <value>100</value>
-  </data>
-  <data name="button15.Text" xml:space="preserve">
-    <value>ण</value>
-  </data>
-  <data name="button15.ToolTip" xml:space="preserve">
-    <value>nH</value>
-  </data>
-  <data name="&gt;&gt;button15.Name" xml:space="preserve">
-    <value>button15</value>
-  </data>
-  <data name="&gt;&gt;button15.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button15.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button15.ZOrder" xml:space="preserve">
-    <value>53</value>
-  </data>
-  <data name="button14.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button14.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button14.Location" type="System.Drawing.Point, System.Drawing">
-    <value>325, 54</value>
-  </data>
-  <data name="button14.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button14.TabIndex" type="System.Int32, mscorlib">
-    <value>99</value>
-  </data>
-  <data name="button14.Text" xml:space="preserve">
-    <value>ञ</value>
-  </data>
-  <data name="button14.ToolTip" xml:space="preserve">
-    <value>Y</value>
-  </data>
-  <data name="&gt;&gt;button14.Name" xml:space="preserve">
-    <value>button14</value>
-  </data>
-  <data name="&gt;&gt;button14.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button14.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button14.ZOrder" xml:space="preserve">
-    <value>54</value>
-  </data>
-  <data name="button13.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button13.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button13.Location" type="System.Drawing.Point, System.Drawing">
-    <value>208, 94</value>
-  </data>
-  <data name="button13.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button13.TabIndex" type="System.Int32, mscorlib">
-    <value>98</value>
-  </data>
-  <data name="button13.Text" xml:space="preserve">
-    <value>त</value>
-  </data>
-  <data name="button13.ToolTip" xml:space="preserve">
-    <value>t</value>
-  </data>
-  <data name="&gt;&gt;button13.Name" xml:space="preserve">
-    <value>button13</value>
-  </data>
-  <data name="&gt;&gt;button13.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button13.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button13.ZOrder" xml:space="preserve">
-    <value>55</value>
-  </data>
-  <data name="button12.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button12.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button12.Location" type="System.Drawing.Point, System.Drawing">
-    <value>248, 94</value>
-  </data>
-  <data name="button12.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button12.TabIndex" type="System.Int32, mscorlib">
-    <value>97</value>
-  </data>
-  <data name="button12.Text" xml:space="preserve">
-    <value>थ</value>
-  </data>
-  <data name="button12.ToolTip" xml:space="preserve">
-    <value>tH</value>
-  </data>
-  <data name="&gt;&gt;button12.Name" xml:space="preserve">
-    <value>button12</value>
-  </data>
-  <data name="&gt;&gt;button12.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button12.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button12.ZOrder" xml:space="preserve">
-    <value>56</value>
-  </data>
-  <data name="button11.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button11.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button11.Location" type="System.Drawing.Point, System.Drawing">
-    <value>288, 94</value>
-  </data>
-  <data name="button11.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button11.TabIndex" type="System.Int32, mscorlib">
-    <value>96</value>
-  </data>
-  <data name="button11.Text" xml:space="preserve">
-    <value>द</value>
-  </data>
-  <data name="button11.ToolTip" xml:space="preserve">
-    <value>d</value>
-  </data>
-  <data name="&gt;&gt;button11.Name" xml:space="preserve">
-    <value>button11</value>
-  </data>
-  <data name="&gt;&gt;button11.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button11.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button11.ZOrder" xml:space="preserve">
-    <value>57</value>
-  </data>
-  <data name="button10.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button10.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button10.Location" type="System.Drawing.Point, System.Drawing">
-    <value>328, 94</value>
-  </data>
-  <data name="button10.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button10.TabIndex" type="System.Int32, mscorlib">
-    <value>95</value>
-  </data>
-  <data name="button10.Text" xml:space="preserve">
-    <value>ध</value>
-  </data>
-  <data name="button10.ToolTip" xml:space="preserve">
-    <value>dH</value>
-  </data>
-  <data name="&gt;&gt;button10.Name" xml:space="preserve">
-    <value>button10</value>
-  </data>
-  <data name="&gt;&gt;button10.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button10.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button10.ZOrder" xml:space="preserve">
-    <value>58</value>
-  </data>
-  <data name="button9.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button9.Location" type="System.Drawing.Point, System.Drawing">
-    <value>368, 94</value>
-  </data>
-  <data name="button9.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button9.TabIndex" type="System.Int32, mscorlib">
-    <value>94</value>
-  </data>
-  <data name="button9.Text" xml:space="preserve">
-    <value>न</value>
-  </data>
-  <data name="button9.ToolTip" xml:space="preserve">
-    <value>n</value>
-  </data>
-  <data name="&gt;&gt;button9.Name" xml:space="preserve">
-    <value>button9</value>
-  </data>
-  <data name="&gt;&gt;button9.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button9.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button9.ZOrder" xml:space="preserve">
-    <value>59</value>
-  </data>
-  <data name="button8.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>2, 136</value>
-  </data>
-  <data name="button8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button8.TabIndex" type="System.Int32, mscorlib">
-    <value>93</value>
-  </data>
-  <data name="button8.Text" xml:space="preserve">
-    <value>प</value>
-  </data>
-  <data name="button8.ToolTip" xml:space="preserve">
-    <value>p</value>
-  </data>
-  <data name="&gt;&gt;button8.Name" xml:space="preserve">
-    <value>button8</value>
-  </data>
-  <data name="&gt;&gt;button8.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button8.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button8.ZOrder" xml:space="preserve">
-    <value>60</value>
-  </data>
-  <data name="button7.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>42, 136</value>
-  </data>
-  <data name="button7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button7.TabIndex" type="System.Int32, mscorlib">
-    <value>92</value>
-  </data>
-  <data name="button7.Text" xml:space="preserve">
-    <value>फ</value>
-  </data>
-  <data name="button7.ToolTip" xml:space="preserve">
-    <value>pH</value>
-  </data>
-  <data name="&gt;&gt;button7.Name" xml:space="preserve">
-    <value>button7</value>
-  </data>
-  <data name="&gt;&gt;button7.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button7.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button7.ZOrder" xml:space="preserve">
-    <value>61</value>
-  </data>
-  <data name="button6.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 136</value>
-  </data>
-  <data name="button6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button6.TabIndex" type="System.Int32, mscorlib">
-    <value>91</value>
-  </data>
-  <data name="button6.Text" xml:space="preserve">
-    <value>ब</value>
-  </data>
-  <data name="button6.ToolTip" xml:space="preserve">
-    <value>b</value>
-  </data>
-  <data name="&gt;&gt;button6.Name" xml:space="preserve">
-    <value>button6</value>
-  </data>
-  <data name="&gt;&gt;button6.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button6.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button6.ZOrder" xml:space="preserve">
-    <value>62</value>
-  </data>
-  <data name="button5.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>122, 136</value>
-  </data>
-  <data name="button5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button5.TabIndex" type="System.Int32, mscorlib">
-    <value>90</value>
-  </data>
-  <data name="button5.Text" xml:space="preserve">
-    <value>भ</value>
-  </data>
-  <data name="button5.ToolTip" xml:space="preserve">
-    <value>bH</value>
-  </data>
-  <data name="&gt;&gt;button5.Name" xml:space="preserve">
-    <value>button5</value>
-  </data>
-  <data name="&gt;&gt;button5.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button5.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button5.ZOrder" xml:space="preserve">
-    <value>63</value>
-  </data>
-  <data name="button4.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>162, 136</value>
-  </data>
-  <data name="button4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button4.TabIndex" type="System.Int32, mscorlib">
-    <value>89</value>
-  </data>
-  <data name="button4.Text" xml:space="preserve">
-    <value>म</value>
-  </data>
-  <data name="button4.ToolTip" xml:space="preserve">
-    <value>m</value>
-  </data>
-  <data name="&gt;&gt;button4.Name" xml:space="preserve">
-    <value>button4</value>
-  </data>
-  <data name="&gt;&gt;button4.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button4.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button4.ZOrder" xml:space="preserve">
-    <value>64</value>
-  </data>
-  <data name="button3.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>202, 136</value>
-  </data>
-  <data name="button3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button3.TabIndex" type="System.Int32, mscorlib">
-    <value>88</value>
-  </data>
-  <data name="button3.Text" xml:space="preserve">
-    <value>य</value>
-  </data>
-  <data name="button3.ToolTip" xml:space="preserve">
-    <value>y</value>
-  </data>
-  <data name="&gt;&gt;button3.Name" xml:space="preserve">
-    <value>button3</value>
-  </data>
-  <data name="&gt;&gt;button3.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button3.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button3.ZOrder" xml:space="preserve">
-    <value>65</value>
-  </data>
-  <data name="button2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>242, 136</value>
-  </data>
-  <data name="button2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button2.TabIndex" type="System.Int32, mscorlib">
-    <value>87</value>
-  </data>
-  <data name="button2.Text" xml:space="preserve">
-    <value>र</value>
-  </data>
-  <data name="button2.ToolTip" xml:space="preserve">
-    <value>r</value>
-  </data>
-  <data name="&gt;&gt;button2.Name" xml:space="preserve">
-    <value>button2</value>
-  </data>
-  <data name="&gt;&gt;button2.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button2.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
-    <value>66</value>
-  </data>
-  <data name="button1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 54</value>
-  </data>
-  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button1.TabIndex" type="System.Int32, mscorlib">
-    <value>86</value>
-  </data>
-  <data name="button1.Text" xml:space="preserve">
-    <value>क</value>
-  </data>
-  <data name="button1.ToolTip" xml:space="preserve">
-    <value>k</value>
-  </data>
-  <data name="&gt;&gt;button1.Name" xml:space="preserve">
-    <value>button1</value>
-  </data>
-  <data name="&gt;&gt;button1.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
-    <value>67</value>
-  </data>
-  <data name="button65.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button65.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button65.Location" type="System.Drawing.Point, System.Drawing">
-    <value>402, 136</value>
-  </data>
-  <data name="button65.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button65.TabIndex" type="System.Int32, mscorlib">
-    <value>150</value>
-  </data>
-  <data name="button65.Text" xml:space="preserve">
-    <value>ऍ</value>
-  </data>
-  <data name="button65.ToolTip" xml:space="preserve">
-    <value>`</value>
-  </data>
-  <data name="&gt;&gt;button65.Name" xml:space="preserve">
-    <value>button65</value>
-  </data>
-  <data name="&gt;&gt;button65.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button65.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button65.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="button67.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button67.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button67.Location" type="System.Drawing.Point, System.Drawing">
-    <value>442, 136</value>
-  </data>
-  <data name="button67.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button67.TabIndex" type="System.Int32, mscorlib">
-    <value>154</value>
-  </data>
-  <data name="button67.Text" xml:space="preserve">
-    <value>ऑ</value>
-  </data>
-  <data name="button67.ToolTip" xml:space="preserve">
-    <value>~</value>
-  </data>
-  <data name="&gt;&gt;button67.Name" xml:space="preserve">
-    <value>button67</value>
-  </data>
-  <data name="&gt;&gt;button67.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button67.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button67.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="button52.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
-  </data>
-  <data name="button52.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button52.Location" type="System.Drawing.Point, System.Drawing">
-    <value>525, 9</value>
-  </data>
-  <data name="button52.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
-  </data>
-  <data name="button52.TabIndex" type="System.Int32, mscorlib">
-    <value>137</value>
-  </data>
-  <data name="button52.Text" xml:space="preserve">
-    <value>कृ</value>
-  </data>
-  <data name="button52.ToolTip" xml:space="preserve">
-    <value>@</value>
-  </data>
-  <data name="&gt;&gt;button52.Name" xml:space="preserve">
-    <value>button52</value>
-  </data>
-  <data name="&gt;&gt;button52.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;button52.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;button52.ZOrder" xml:space="preserve">
-    <value>17</value>
-  </data>
   <data name="button64.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Mangal, 11.25pt</value>
+    <value>Microsoft Sans Serif, 11.25pt</value>
   </data>
   <data name="button64.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="button64.Location" type="System.Drawing.Point, System.Drawing">
-    <value>362, 136</value>
+    <value>483, 167</value>
+  </data>
+  <data name="button64.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
   </data>
   <data name="button64.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 35</value>
+    <value>45, 43</value>
   </data>
   <data name="button64.TabIndex" type="System.Int32, mscorlib">
     <value>149</value>
@@ -2434,7 +358,7 @@
     <value>button64</value>
   </data>
   <data name="&gt;&gt;button64.Type" xml:space="preserve">
-    <value>ManiX.XButton, Marathi Keyboard, Version=3.1.0.17888, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button64.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2442,11 +366,2288 @@
   <data name="&gt;&gt;button64.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
+  <data name="button60.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button60.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button60.Location" type="System.Drawing.Point, System.Drawing">
+    <value>648, 66</value>
+  </data>
+  <data name="button60.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button60.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button60.TabIndex" type="System.Int32, mscorlib">
+    <value>147</value>
+  </data>
+  <data name="button60.Text" xml:space="preserve">
+    <value>७</value>
+  </data>
+  <data name="button60.ToolTip" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;button60.Name" xml:space="preserve">
+    <value>button60</value>
+  </data>
+  <data name="&gt;&gt;button60.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button60.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button60.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="button65.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button65.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button65.Location" type="System.Drawing.Point, System.Drawing">
+    <value>536, 167</value>
+  </data>
+  <data name="button65.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button65.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button65.TabIndex" type="System.Int32, mscorlib">
+    <value>150</value>
+  </data>
+  <data name="button65.Text" xml:space="preserve">
+    <value>ऍ</value>
+  </data>
+  <data name="button65.ToolTip" xml:space="preserve">
+    <value>`</value>
+  </data>
+  <data name="&gt;&gt;button65.Name" xml:space="preserve">
+    <value>button65</value>
+  </data>
+  <data name="&gt;&gt;button65.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button65.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button65.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="button61.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button61.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button61.Location" type="System.Drawing.Point, System.Drawing">
+    <value>701, 66</value>
+  </data>
+  <data name="button61.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button61.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button61.TabIndex" type="System.Int32, mscorlib">
+    <value>146</value>
+  </data>
+  <data name="button61.Text" xml:space="preserve">
+    <value>८</value>
+  </data>
+  <data name="button61.ToolTip" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;button61.Name" xml:space="preserve">
+    <value>button61</value>
+  </data>
+  <data name="&gt;&gt;button61.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button61.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button61.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="button62.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button62.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button62.Location" type="System.Drawing.Point, System.Drawing">
+    <value>755, 66</value>
+  </data>
+  <data name="button62.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button62.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button62.TabIndex" type="System.Int32, mscorlib">
+    <value>145</value>
+  </data>
+  <data name="button62.Text" xml:space="preserve">
+    <value>९</value>
+  </data>
+  <data name="button62.ToolTip" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;button62.Name" xml:space="preserve">
+    <value>button62</value>
+  </data>
+  <data name="&gt;&gt;button62.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button62.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button62.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="button63.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button63.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button63.Location" type="System.Drawing.Point, System.Drawing">
+    <value>648, 218</value>
+  </data>
+  <data name="button63.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button63.Size" type="System.Drawing.Size, System.Drawing">
+    <value>99, 43</value>
+  </data>
+  <data name="button63.TabIndex" type="System.Int32, mscorlib">
+    <value>144</value>
+  </data>
+  <data name="button63.Text" xml:space="preserve">
+    <value>०</value>
+  </data>
+  <data name="button63.ToolTip" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;button63.Name" xml:space="preserve">
+    <value>button63</value>
+  </data>
+  <data name="&gt;&gt;button63.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button63.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button63.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="button53.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button53.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button53.Location" type="System.Drawing.Point, System.Drawing">
+    <value>755, 218</value>
+  </data>
+  <data name="button53.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button53.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button53.TabIndex" type="System.Int32, mscorlib">
+    <value>138</value>
+  </data>
+  <data name="button53.Text" xml:space="preserve">
+    <value>श्र</value>
+  </data>
+  <data name="button53.ToolTip" xml:space="preserve">
+    <value>W</value>
+  </data>
+  <data name="&gt;&gt;button53.Name" xml:space="preserve">
+    <value>button53</value>
+  </data>
+  <data name="&gt;&gt;button53.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button53.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button53.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="button54.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button54.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button54.Location" type="System.Drawing.Point, System.Drawing">
+    <value>648, 167</value>
+  </data>
+  <data name="button54.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button54.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button54.TabIndex" type="System.Int32, mscorlib">
+    <value>143</value>
+  </data>
+  <data name="button54.Text" xml:space="preserve">
+    <value>१</value>
+  </data>
+  <data name="button54.ToolTip" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;button54.Name" xml:space="preserve">
+    <value>button54</value>
+  </data>
+  <data name="&gt;&gt;button54.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button54.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button54.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="button55.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button55.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button55.Location" type="System.Drawing.Point, System.Drawing">
+    <value>701, 167</value>
+  </data>
+  <data name="button55.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button55.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button55.TabIndex" type="System.Int32, mscorlib">
+    <value>142</value>
+  </data>
+  <data name="button55.Text" xml:space="preserve">
+    <value>२</value>
+  </data>
+  <data name="button55.ToolTip" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;button55.Name" xml:space="preserve">
+    <value>button55</value>
+  </data>
+  <data name="&gt;&gt;button55.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button55.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button55.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="button56.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button56.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button56.Location" type="System.Drawing.Point, System.Drawing">
+    <value>755, 167</value>
+  </data>
+  <data name="button56.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button56.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button56.TabIndex" type="System.Int32, mscorlib">
+    <value>141</value>
+  </data>
+  <data name="button56.Text" xml:space="preserve">
+    <value>३</value>
+  </data>
+  <data name="button56.ToolTip" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;button56.Name" xml:space="preserve">
+    <value>button56</value>
+  </data>
+  <data name="&gt;&gt;button56.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button56.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button56.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="button57.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button57.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button57.Location" type="System.Drawing.Point, System.Drawing">
+    <value>648, 117</value>
+  </data>
+  <data name="button57.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button57.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button57.TabIndex" type="System.Int32, mscorlib">
+    <value>140</value>
+  </data>
+  <data name="button57.Text" xml:space="preserve">
+    <value>४</value>
+  </data>
+  <data name="button57.ToolTip" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;button57.Name" xml:space="preserve">
+    <value>button57</value>
+  </data>
+  <data name="&gt;&gt;button57.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button57.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button57.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="button58.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button58.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button58.Location" type="System.Drawing.Point, System.Drawing">
+    <value>701, 117</value>
+  </data>
+  <data name="button58.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button58.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button58.TabIndex" type="System.Int32, mscorlib">
+    <value>139</value>
+  </data>
+  <data name="button58.Text" xml:space="preserve">
+    <value>५</value>
+  </data>
+  <data name="button58.ToolTip" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;button58.Name" xml:space="preserve">
+    <value>button58</value>
+  </data>
+  <data name="&gt;&gt;button58.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button58.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button58.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="button49.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button49.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button49.Location" type="System.Drawing.Point, System.Drawing">
+    <value>381, 218</value>
+  </data>
+  <data name="button49.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button49.Size" type="System.Drawing.Size, System.Drawing">
+    <value>152, 43</value>
+  </data>
+  <data name="button49.TabIndex" type="System.Int32, mscorlib">
+    <value>134</value>
+  </data>
+  <data name="button49.Text" xml:space="preserve">
+    <value>स्पेस</value>
+  </data>
+  <data name="button49.ToolTip" xml:space="preserve">
+    <value>Spacebar</value>
+  </data>
+  <data name="&gt;&gt;button49.Name" xml:space="preserve">
+    <value>button49</value>
+  </data>
+  <data name="&gt;&gt;button49.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button49.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button49.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="button52.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button52.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button52.Location" type="System.Drawing.Point, System.Drawing">
+    <value>700, 11</value>
+  </data>
+  <data name="button52.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button52.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button52.TabIndex" type="System.Int32, mscorlib">
+    <value>137</value>
+  </data>
+  <data name="button52.Text" xml:space="preserve">
+    <value>कृ</value>
+  </data>
+  <data name="button52.ToolTip" xml:space="preserve">
+    <value>@</value>
+  </data>
+  <data name="&gt;&gt;button52.Name" xml:space="preserve">
+    <value>button52</value>
+  </data>
+  <data name="&gt;&gt;button52.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button52.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button52.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="button51.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button51.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button51.Location" type="System.Drawing.Point, System.Drawing">
+    <value>753, 11</value>
+  </data>
+  <data name="button51.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button51.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button51.TabIndex" type="System.Int32, mscorlib">
+    <value>136</value>
+  </data>
+  <data name="button51.Text" xml:space="preserve">
+    <value>त्र</value>
+  </data>
+  <data name="button51.ToolTip" xml:space="preserve">
+    <value>P</value>
+  </data>
+  <data name="&gt;&gt;button51.Name" xml:space="preserve">
+    <value>button51</value>
+  </data>
+  <data name="&gt;&gt;button51.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button51.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button51.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="button50.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button50.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button50.Location" type="System.Drawing.Point, System.Drawing">
+    <value>544, 116</value>
+  </data>
+  <data name="button50.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button50.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button50.TabIndex" type="System.Int32, mscorlib">
+    <value>135</value>
+  </data>
+  <data name="button50.Text" xml:space="preserve">
+    <value>ऋ</value>
+  </data>
+  <data name="button50.ToolTip" xml:space="preserve">
+    <value>R</value>
+  </data>
+  <data name="&gt;&gt;button50.Name" xml:space="preserve">
+    <value>button50</value>
+  </data>
+  <data name="&gt;&gt;button50.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button50.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button50.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="button48.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button48.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button48.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 11</value>
+  </data>
+  <data name="button48.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button48.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button48.TabIndex" type="System.Int32, mscorlib">
+    <value>133</value>
+  </data>
+  <data name="button48.Text" xml:space="preserve">
+    <value>अ</value>
+  </data>
+  <data name="button48.ToolTip" xml:space="preserve">
+    <value>A</value>
+  </data>
+  <data name="&gt;&gt;button48.Name" xml:space="preserve">
+    <value>button48</value>
+  </data>
+  <data name="&gt;&gt;button48.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button48.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button48.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="button47.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button47.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button47.Location" type="System.Drawing.Point, System.Drawing">
+    <value>113, 11</value>
+  </data>
+  <data name="button47.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button47.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button47.TabIndex" type="System.Int32, mscorlib">
+    <value>132</value>
+  </data>
+  <data name="button47.Text" xml:space="preserve">
+    <value>आ</value>
+  </data>
+  <data name="button47.ToolTip" xml:space="preserve">
+    <value>a</value>
+  </data>
+  <data name="&gt;&gt;button47.Name" xml:space="preserve">
+    <value>button47</value>
+  </data>
+  <data name="&gt;&gt;button47.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button47.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button47.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="button38.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button38.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button38.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 11</value>
+  </data>
+  <data name="button38.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button38.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button38.TabIndex" type="System.Int32, mscorlib">
+    <value>123</value>
+  </data>
+  <data name="button38.Text" xml:space="preserve">
+    <value>ॐ</value>
+  </data>
+  <data name="button38.ToolTip" xml:space="preserve">
+    <value>Q</value>
+  </data>
+  <data name="&gt;&gt;button38.Name" xml:space="preserve">
+    <value>button38</value>
+  </data>
+  <data name="&gt;&gt;button38.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button38.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button38.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="button46.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button46.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button46.Location" type="System.Drawing.Point, System.Drawing">
+    <value>167, 11</value>
+  </data>
+  <data name="button46.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button46.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button46.TabIndex" type="System.Int32, mscorlib">
+    <value>131</value>
+  </data>
+  <data name="button46.Text" xml:space="preserve">
+    <value>इ</value>
+  </data>
+  <data name="button46.ToolTip" xml:space="preserve">
+    <value>i</value>
+  </data>
+  <data name="&gt;&gt;button46.Name" xml:space="preserve">
+    <value>button46</value>
+  </data>
+  <data name="&gt;&gt;button46.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button46.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button46.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="button35.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button35.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button35.Location" type="System.Drawing.Point, System.Drawing">
+    <value>328, 218</value>
+  </data>
+  <data name="button35.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button35.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button35.TabIndex" type="System.Int32, mscorlib">
+    <value>120</value>
+  </data>
+  <data name="button35.Text" xml:space="preserve">
+    <value>ज्ञ</value>
+  </data>
+  <data name="button35.ToolTip" xml:space="preserve">
+    <value>Z</value>
+  </data>
+  <data name="&gt;&gt;button35.Name" xml:space="preserve">
+    <value>button35</value>
+  </data>
+  <data name="&gt;&gt;button35.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button35.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button35.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="button45.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button45.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button45.Location" type="System.Drawing.Point, System.Drawing">
+    <value>220, 11</value>
+  </data>
+  <data name="button45.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button45.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button45.TabIndex" type="System.Int32, mscorlib">
+    <value>130</value>
+  </data>
+  <data name="button45.Text" xml:space="preserve">
+    <value>ई</value>
+  </data>
+  <data name="button45.ToolTip" xml:space="preserve">
+    <value>I</value>
+  </data>
+  <data name="&gt;&gt;button45.Name" xml:space="preserve">
+    <value>button45</value>
+  </data>
+  <data name="&gt;&gt;button45.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button45.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button45.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="button44.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button44.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button44.Location" type="System.Drawing.Point, System.Drawing">
+    <value>380, 11</value>
+  </data>
+  <data name="button44.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button44.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button44.TabIndex" type="System.Int32, mscorlib">
+    <value>129</value>
+  </data>
+  <data name="button44.Text" xml:space="preserve">
+    <value>ए</value>
+  </data>
+  <data name="button44.ToolTip" xml:space="preserve">
+    <value>e</value>
+  </data>
+  <data name="&gt;&gt;button44.Name" xml:space="preserve">
+    <value>button44</value>
+  </data>
+  <data name="&gt;&gt;button44.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button44.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button44.ZOrder" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <data name="button43.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button43.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button43.Location" type="System.Drawing.Point, System.Drawing">
+    <value>433, 11</value>
+  </data>
+  <data name="button43.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button43.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button43.TabIndex" type="System.Int32, mscorlib">
+    <value>128</value>
+  </data>
+  <data name="button43.Text" xml:space="preserve">
+    <value>ऐ</value>
+  </data>
+  <data name="button43.ToolTip" xml:space="preserve">
+    <value>E</value>
+  </data>
+  <data name="&gt;&gt;button43.Name" xml:space="preserve">
+    <value>button43</value>
+  </data>
+  <data name="&gt;&gt;button43.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button43.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button43.ZOrder" xml:space="preserve">
+    <value>27</value>
+  </data>
+  <data name="button42.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button42.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button42.Location" type="System.Drawing.Point, System.Drawing">
+    <value>487, 11</value>
+  </data>
+  <data name="button42.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button42.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button42.TabIndex" type="System.Int32, mscorlib">
+    <value>127</value>
+  </data>
+  <data name="button42.Text" xml:space="preserve">
+    <value>ओ</value>
+  </data>
+  <data name="button42.ToolTip" xml:space="preserve">
+    <value>o</value>
+  </data>
+  <data name="&gt;&gt;button42.Name" xml:space="preserve">
+    <value>button42</value>
+  </data>
+  <data name="&gt;&gt;button42.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button42.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button42.ZOrder" xml:space="preserve">
+    <value>28</value>
+  </data>
+  <data name="button41.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button41.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button41.Location" type="System.Drawing.Point, System.Drawing">
+    <value>540, 11</value>
+  </data>
+  <data name="button41.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button41.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button41.TabIndex" type="System.Int32, mscorlib">
+    <value>126</value>
+  </data>
+  <data name="button41.Text" xml:space="preserve">
+    <value>औ</value>
+  </data>
+  <data name="button41.ToolTip" xml:space="preserve">
+    <value>O</value>
+  </data>
+  <data name="&gt;&gt;button41.Name" xml:space="preserve">
+    <value>button41</value>
+  </data>
+  <data name="&gt;&gt;button41.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button41.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button41.ZOrder" xml:space="preserve">
+    <value>29</value>
+  </data>
+  <data name="button40.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button40.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button40.Location" type="System.Drawing.Point, System.Drawing">
+    <value>593, 11</value>
+  </data>
+  <data name="button40.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button40.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button40.TabIndex" type="System.Int32, mscorlib">
+    <value>125</value>
+  </data>
+  <data name="button40.Text" xml:space="preserve">
+    <value>अं</value>
+  </data>
+  <data name="button40.ToolTip" xml:space="preserve">
+    <value>N</value>
+  </data>
+  <data name="&gt;&gt;button40.Name" xml:space="preserve">
+    <value>button40</value>
+  </data>
+  <data name="&gt;&gt;button40.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button40.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button40.ZOrder" xml:space="preserve">
+    <value>30</value>
+  </data>
+  <data name="button39.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button39.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button39.Location" type="System.Drawing.Point, System.Drawing">
+    <value>647, 11</value>
+  </data>
+  <data name="button39.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button39.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button39.TabIndex" type="System.Int32, mscorlib">
+    <value>124</value>
+  </data>
+  <data name="button39.Text" xml:space="preserve">
+    <value>अः</value>
+  </data>
+  <data name="button39.ToolTip" xml:space="preserve">
+    <value>:</value>
+  </data>
+  <data name="&gt;&gt;button39.Name" xml:space="preserve">
+    <value>button39</value>
+  </data>
+  <data name="&gt;&gt;button39.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button39.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button39.ZOrder" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="button34.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button34.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button34.Location" type="System.Drawing.Point, System.Drawing">
+    <value>376, 167</value>
+  </data>
+  <data name="button34.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button34.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button34.TabIndex" type="System.Int32, mscorlib">
+    <value>119</value>
+  </data>
+  <data name="button34.Text" xml:space="preserve">
+    <value>ल</value>
+  </data>
+  <data name="button34.ToolTip" xml:space="preserve">
+    <value>l</value>
+  </data>
+  <data name="&gt;&gt;button34.Name" xml:space="preserve">
+    <value>button34</value>
+  </data>
+  <data name="&gt;&gt;button34.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button34.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button34.ZOrder" xml:space="preserve">
+    <value>32</value>
+  </data>
+  <data name="button37.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button37.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button37.Location" type="System.Drawing.Point, System.Drawing">
+    <value>273, 11</value>
+  </data>
+  <data name="button37.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button37.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button37.TabIndex" type="System.Int32, mscorlib">
+    <value>122</value>
+  </data>
+  <data name="button37.Text" xml:space="preserve">
+    <value>उ</value>
+  </data>
+  <data name="button37.ToolTip" xml:space="preserve">
+    <value>u</value>
+  </data>
+  <data name="&gt;&gt;button37.Name" xml:space="preserve">
+    <value>button37</value>
+  </data>
+  <data name="&gt;&gt;button37.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button37.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button37.ZOrder" xml:space="preserve">
+    <value>33</value>
+  </data>
+  <data name="button36.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button36.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button36.Location" type="System.Drawing.Point, System.Drawing">
+    <value>327, 11</value>
+  </data>
+  <data name="button36.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button36.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button36.TabIndex" type="System.Int32, mscorlib">
+    <value>121</value>
+  </data>
+  <data name="button36.Text" xml:space="preserve">
+    <value>ऊ</value>
+  </data>
+  <data name="button36.ToolTip" xml:space="preserve">
+    <value>U</value>
+  </data>
+  <data name="&gt;&gt;button36.Name" xml:space="preserve">
+    <value>button36</value>
+  </data>
+  <data name="&gt;&gt;button36.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button36.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button36.ZOrder" xml:space="preserve">
+    <value>34</value>
+  </data>
+  <data name="button33.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button33.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button33.Location" type="System.Drawing.Point, System.Drawing">
+    <value>429, 167</value>
+  </data>
+  <data name="button33.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button33.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button33.TabIndex" type="System.Int32, mscorlib">
+    <value>118</value>
+  </data>
+  <data name="button33.Text" xml:space="preserve">
+    <value>व</value>
+  </data>
+  <data name="button33.ToolTip" xml:space="preserve">
+    <value>v</value>
+  </data>
+  <data name="&gt;&gt;button33.Name" xml:space="preserve">
+    <value>button33</value>
+  </data>
+  <data name="&gt;&gt;button33.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button33.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button33.ZOrder" xml:space="preserve">
+    <value>35</value>
+  </data>
+  <data name="button32.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button32.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button32.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 218</value>
+  </data>
+  <data name="button32.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button32.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button32.TabIndex" type="System.Int32, mscorlib">
+    <value>117</value>
+  </data>
+  <data name="button32.Text" xml:space="preserve">
+    <value>श</value>
+  </data>
+  <data name="button32.ToolTip" xml:space="preserve">
+    <value>sH</value>
+  </data>
+  <data name="&gt;&gt;button32.Name" xml:space="preserve">
+    <value>button32</value>
+  </data>
+  <data name="&gt;&gt;button32.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button32.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button32.ZOrder" xml:space="preserve">
+    <value>36</value>
+  </data>
+  <data name="button31.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button31.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button31.Location" type="System.Drawing.Point, System.Drawing">
+    <value>61, 218</value>
+  </data>
+  <data name="button31.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button31.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button31.TabIndex" type="System.Int32, mscorlib">
+    <value>116</value>
+  </data>
+  <data name="button31.Text" xml:space="preserve">
+    <value>ष</value>
+  </data>
+  <data name="button31.ToolTip" xml:space="preserve">
+    <value>S</value>
+  </data>
+  <data name="&gt;&gt;button31.Name" xml:space="preserve">
+    <value>button31</value>
+  </data>
+  <data name="&gt;&gt;button31.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button31.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button31.ZOrder" xml:space="preserve">
+    <value>37</value>
+  </data>
+  <data name="button30.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button30.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button30.Location" type="System.Drawing.Point, System.Drawing">
+    <value>115, 218</value>
+  </data>
+  <data name="button30.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button30.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button30.TabIndex" type="System.Int32, mscorlib">
+    <value>115</value>
+  </data>
+  <data name="button30.Text" xml:space="preserve">
+    <value>स</value>
+  </data>
+  <data name="button30.ToolTip" xml:space="preserve">
+    <value>s</value>
+  </data>
+  <data name="&gt;&gt;button30.Name" xml:space="preserve">
+    <value>button30</value>
+  </data>
+  <data name="&gt;&gt;button30.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button30.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button30.ZOrder" xml:space="preserve">
+    <value>38</value>
+  </data>
+  <data name="button29.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button29.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button29.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 218</value>
+  </data>
+  <data name="button29.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button29.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button29.TabIndex" type="System.Int32, mscorlib">
+    <value>114</value>
+  </data>
+  <data name="button29.Text" xml:space="preserve">
+    <value>ह</value>
+  </data>
+  <data name="button29.ToolTip" xml:space="preserve">
+    <value>h</value>
+  </data>
+  <data name="&gt;&gt;button29.Name" xml:space="preserve">
+    <value>button29</value>
+  </data>
+  <data name="&gt;&gt;button29.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button29.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button29.ZOrder" xml:space="preserve">
+    <value>39</value>
+  </data>
+  <data name="button28.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button28.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button28.Location" type="System.Drawing.Point, System.Drawing">
+    <value>221, 218</value>
+  </data>
+  <data name="button28.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button28.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button28.TabIndex" type="System.Int32, mscorlib">
+    <value>113</value>
+  </data>
+  <data name="button28.Text" xml:space="preserve">
+    <value>ळ</value>
+  </data>
+  <data name="button28.ToolTip" xml:space="preserve">
+    <value>L</value>
+  </data>
+  <data name="&gt;&gt;button28.Name" xml:space="preserve">
+    <value>button28</value>
+  </data>
+  <data name="&gt;&gt;button28.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button28.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button28.ZOrder" xml:space="preserve">
+    <value>40</value>
+  </data>
+  <data name="button27.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button27.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button27.Location" type="System.Drawing.Point, System.Drawing">
+    <value>275, 218</value>
+  </data>
+  <data name="button27.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button27.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button27.TabIndex" type="System.Int32, mscorlib">
+    <value>112</value>
+  </data>
+  <data name="button27.Text" xml:space="preserve">
+    <value>क्ष</value>
+  </data>
+  <data name="button27.ToolTip" xml:space="preserve">
+    <value>x</value>
+  </data>
+  <data name="&gt;&gt;button27.Name" xml:space="preserve">
+    <value>button27</value>
+  </data>
+  <data name="&gt;&gt;button27.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button27.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button27.ZOrder" xml:space="preserve">
+    <value>41</value>
+  </data>
+  <data name="button26.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button26.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button26.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 66</value>
+  </data>
+  <data name="button26.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button26.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button26.TabIndex" type="System.Int32, mscorlib">
+    <value>111</value>
+  </data>
+  <data name="button26.Text" xml:space="preserve">
+    <value>ख</value>
+  </data>
+  <data name="button26.ToolTip" xml:space="preserve">
+    <value>kH</value>
+  </data>
+  <data name="&gt;&gt;button26.Name" xml:space="preserve">
+    <value>button26</value>
+  </data>
+  <data name="&gt;&gt;button26.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button26.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button26.ZOrder" xml:space="preserve">
+    <value>42</value>
+  </data>
+  <data name="button25.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button25.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button25.Location" type="System.Drawing.Point, System.Drawing">
+    <value>113, 66</value>
+  </data>
+  <data name="button25.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button25.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button25.TabIndex" type="System.Int32, mscorlib">
+    <value>110</value>
+  </data>
+  <data name="button25.Text" xml:space="preserve">
+    <value>ग</value>
+  </data>
+  <data name="button25.ToolTip" xml:space="preserve">
+    <value>g</value>
+  </data>
+  <data name="&gt;&gt;button25.Name" xml:space="preserve">
+    <value>button25</value>
+  </data>
+  <data name="&gt;&gt;button25.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button25.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button25.ZOrder" xml:space="preserve">
+    <value>43</value>
+  </data>
+  <data name="button24.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button24.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button24.Location" type="System.Drawing.Point, System.Drawing">
+    <value>167, 66</value>
+  </data>
+  <data name="button24.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button24.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button24.TabIndex" type="System.Int32, mscorlib">
+    <value>109</value>
+  </data>
+  <data name="button24.Text" xml:space="preserve">
+    <value>घ</value>
+  </data>
+  <data name="button24.ToolTip" xml:space="preserve">
+    <value>gH</value>
+  </data>
+  <data name="&gt;&gt;button24.Name" xml:space="preserve">
+    <value>button24</value>
+  </data>
+  <data name="&gt;&gt;button24.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button24.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button24.ZOrder" xml:space="preserve">
+    <value>44</value>
+  </data>
+  <data name="button23.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button23.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button23.Location" type="System.Drawing.Point, System.Drawing">
+    <value>220, 66</value>
+  </data>
+  <data name="button23.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button23.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button23.TabIndex" type="System.Int32, mscorlib">
+    <value>108</value>
+  </data>
+  <data name="button23.Text" xml:space="preserve">
+    <value>च</value>
+  </data>
+  <data name="button23.ToolTip" xml:space="preserve">
+    <value>c</value>
+  </data>
+  <data name="&gt;&gt;button23.Name" xml:space="preserve">
+    <value>button23</value>
+  </data>
+  <data name="&gt;&gt;button23.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button23.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button23.ZOrder" xml:space="preserve">
+    <value>45</value>
+  </data>
+  <data name="button22.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button22.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button22.Location" type="System.Drawing.Point, System.Drawing">
+    <value>273, 66</value>
+  </data>
+  <data name="button22.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button22.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button22.TabIndex" type="System.Int32, mscorlib">
+    <value>107</value>
+  </data>
+  <data name="button22.Text" xml:space="preserve">
+    <value>छ</value>
+  </data>
+  <data name="button22.ToolTip" xml:space="preserve">
+    <value>cH</value>
+  </data>
+  <data name="&gt;&gt;button22.Name" xml:space="preserve">
+    <value>button22</value>
+  </data>
+  <data name="&gt;&gt;button22.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button22.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button22.ZOrder" xml:space="preserve">
+    <value>46</value>
+  </data>
+  <data name="button21.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button21.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button21.Location" type="System.Drawing.Point, System.Drawing">
+    <value>327, 66</value>
+  </data>
+  <data name="button21.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button21.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button21.TabIndex" type="System.Int32, mscorlib">
+    <value>106</value>
+  </data>
+  <data name="button21.Text" xml:space="preserve">
+    <value>ज</value>
+  </data>
+  <data name="button21.ToolTip" xml:space="preserve">
+    <value>j</value>
+  </data>
+  <data name="&gt;&gt;button21.Name" xml:space="preserve">
+    <value>button21</value>
+  </data>
+  <data name="&gt;&gt;button21.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button21.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button21.ZOrder" xml:space="preserve">
+    <value>47</value>
+  </data>
+  <data name="button20.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button20.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>380, 66</value>
+  </data>
+  <data name="button20.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button20.TabIndex" type="System.Int32, mscorlib">
+    <value>105</value>
+  </data>
+  <data name="button20.Text" xml:space="preserve">
+    <value>झ</value>
+  </data>
+  <data name="button20.ToolTip" xml:space="preserve">
+    <value>jH</value>
+  </data>
+  <data name="&gt;&gt;button20.Name" xml:space="preserve">
+    <value>button20</value>
+  </data>
+  <data name="&gt;&gt;button20.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button20.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button20.ZOrder" xml:space="preserve">
+    <value>48</value>
+  </data>
+  <data name="button19.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button19.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 116</value>
+  </data>
+  <data name="button19.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button19.TabIndex" type="System.Int32, mscorlib">
+    <value>104</value>
+  </data>
+  <data name="button19.Text" xml:space="preserve">
+    <value>ट</value>
+  </data>
+  <data name="button19.ToolTip" xml:space="preserve">
+    <value>T</value>
+  </data>
+  <data name="&gt;&gt;button19.Name" xml:space="preserve">
+    <value>button19</value>
+  </data>
+  <data name="&gt;&gt;button19.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button19.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button19.ZOrder" xml:space="preserve">
+    <value>49</value>
+  </data>
+  <data name="button18.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button18.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>64, 116</value>
+  </data>
+  <data name="button18.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button18.TabIndex" type="System.Int32, mscorlib">
+    <value>103</value>
+  </data>
+  <data name="button18.Text" xml:space="preserve">
+    <value>ठ</value>
+  </data>
+  <data name="button18.ToolTip" xml:space="preserve">
+    <value>TH</value>
+  </data>
+  <data name="&gt;&gt;button18.Name" xml:space="preserve">
+    <value>button18</value>
+  </data>
+  <data name="&gt;&gt;button18.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button18.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button18.ZOrder" xml:space="preserve">
+    <value>50</value>
+  </data>
+  <data name="button17.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button17.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>117, 116</value>
+  </data>
+  <data name="button17.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button17.TabIndex" type="System.Int32, mscorlib">
+    <value>102</value>
+  </data>
+  <data name="button17.Text" xml:space="preserve">
+    <value>ड</value>
+  </data>
+  <data name="button17.ToolTip" xml:space="preserve">
+    <value>D</value>
+  </data>
+  <data name="&gt;&gt;button17.Name" xml:space="preserve">
+    <value>button17</value>
+  </data>
+  <data name="&gt;&gt;button17.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button17.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button17.ZOrder" xml:space="preserve">
+    <value>51</value>
+  </data>
+  <data name="button16.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button16.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>171, 116</value>
+  </data>
+  <data name="button16.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button16.TabIndex" type="System.Int32, mscorlib">
+    <value>101</value>
+  </data>
+  <data name="button16.Text" xml:space="preserve">
+    <value>ढ</value>
+  </data>
+  <data name="button16.ToolTip" xml:space="preserve">
+    <value>DH</value>
+  </data>
+  <data name="&gt;&gt;button16.Name" xml:space="preserve">
+    <value>button16</value>
+  </data>
+  <data name="&gt;&gt;button16.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button16.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button16.ZOrder" xml:space="preserve">
+    <value>52</value>
+  </data>
+  <data name="button15.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button15.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>224, 116</value>
+  </data>
+  <data name="button15.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button15.TabIndex" type="System.Int32, mscorlib">
+    <value>100</value>
+  </data>
+  <data name="button15.Text" xml:space="preserve">
+    <value>ण</value>
+  </data>
+  <data name="button15.ToolTip" xml:space="preserve">
+    <value>nH</value>
+  </data>
+  <data name="&gt;&gt;button15.Name" xml:space="preserve">
+    <value>button15</value>
+  </data>
+  <data name="&gt;&gt;button15.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button15.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button15.ZOrder" xml:space="preserve">
+    <value>53</value>
+  </data>
+  <data name="button14.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button14.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>433, 66</value>
+  </data>
+  <data name="button14.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button14.TabIndex" type="System.Int32, mscorlib">
+    <value>99</value>
+  </data>
+  <data name="button14.Text" xml:space="preserve">
+    <value>ञ</value>
+  </data>
+  <data name="button14.ToolTip" xml:space="preserve">
+    <value>Y</value>
+  </data>
+  <data name="&gt;&gt;button14.Name" xml:space="preserve">
+    <value>button14</value>
+  </data>
+  <data name="&gt;&gt;button14.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button14.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button14.ZOrder" xml:space="preserve">
+    <value>54</value>
+  </data>
+  <data name="button13.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button13.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>277, 116</value>
+  </data>
+  <data name="button13.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button13.TabIndex" type="System.Int32, mscorlib">
+    <value>98</value>
+  </data>
+  <data name="button13.Text" xml:space="preserve">
+    <value>त</value>
+  </data>
+  <data name="button13.ToolTip" xml:space="preserve">
+    <value>t</value>
+  </data>
+  <data name="&gt;&gt;button13.Name" xml:space="preserve">
+    <value>button13</value>
+  </data>
+  <data name="&gt;&gt;button13.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button13.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button13.ZOrder" xml:space="preserve">
+    <value>55</value>
+  </data>
+  <data name="button12.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button12.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>331, 116</value>
+  </data>
+  <data name="button12.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button12.TabIndex" type="System.Int32, mscorlib">
+    <value>97</value>
+  </data>
+  <data name="button12.Text" xml:space="preserve">
+    <value>थ</value>
+  </data>
+  <data name="button12.ToolTip" xml:space="preserve">
+    <value>tH</value>
+  </data>
+  <data name="&gt;&gt;button12.Name" xml:space="preserve">
+    <value>button12</value>
+  </data>
+  <data name="&gt;&gt;button12.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button12.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button12.ZOrder" xml:space="preserve">
+    <value>56</value>
+  </data>
+  <data name="button11.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button11.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>384, 116</value>
+  </data>
+  <data name="button11.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button11.TabIndex" type="System.Int32, mscorlib">
+    <value>96</value>
+  </data>
+  <data name="button11.Text" xml:space="preserve">
+    <value>द</value>
+  </data>
+  <data name="button11.ToolTip" xml:space="preserve">
+    <value>d</value>
+  </data>
+  <data name="&gt;&gt;button11.Name" xml:space="preserve">
+    <value>button11</value>
+  </data>
+  <data name="&gt;&gt;button11.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button11.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button11.ZOrder" xml:space="preserve">
+    <value>57</value>
+  </data>
+  <data name="button10.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button10.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>437, 116</value>
+  </data>
+  <data name="button10.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button10.TabIndex" type="System.Int32, mscorlib">
+    <value>95</value>
+  </data>
+  <data name="button10.Text" xml:space="preserve">
+    <value>ध</value>
+  </data>
+  <data name="button10.ToolTip" xml:space="preserve">
+    <value>dH</value>
+  </data>
+  <data name="&gt;&gt;button10.Name" xml:space="preserve">
+    <value>button10</value>
+  </data>
+  <data name="&gt;&gt;button10.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button10.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button10.ZOrder" xml:space="preserve">
+    <value>58</value>
+  </data>
+  <data name="button9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>491, 116</value>
+  </data>
+  <data name="button9.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button9.TabIndex" type="System.Int32, mscorlib">
+    <value>94</value>
+  </data>
+  <data name="button9.Text" xml:space="preserve">
+    <value>न</value>
+  </data>
+  <data name="button9.ToolTip" xml:space="preserve">
+    <value>n</value>
+  </data>
+  <data name="&gt;&gt;button9.Name" xml:space="preserve">
+    <value>button9</value>
+  </data>
+  <data name="&gt;&gt;button9.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button9.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button9.ZOrder" xml:space="preserve">
+    <value>59</value>
+  </data>
+  <data name="button8.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 167</value>
+  </data>
+  <data name="button8.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button8.TabIndex" type="System.Int32, mscorlib">
+    <value>93</value>
+  </data>
+  <data name="button8.Text" xml:space="preserve">
+    <value>प</value>
+  </data>
+  <data name="button8.ToolTip" xml:space="preserve">
+    <value>p</value>
+  </data>
+  <data name="&gt;&gt;button8.Name" xml:space="preserve">
+    <value>button8</value>
+  </data>
+  <data name="&gt;&gt;button8.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button8.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button8.ZOrder" xml:space="preserve">
+    <value>60</value>
+  </data>
+  <data name="button7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>56, 167</value>
+  </data>
+  <data name="button7.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button7.TabIndex" type="System.Int32, mscorlib">
+    <value>92</value>
+  </data>
+  <data name="button7.Text" xml:space="preserve">
+    <value>फ</value>
+  </data>
+  <data name="button7.ToolTip" xml:space="preserve">
+    <value>pH</value>
+  </data>
+  <data name="&gt;&gt;button7.Name" xml:space="preserve">
+    <value>button7</value>
+  </data>
+  <data name="&gt;&gt;button7.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button7.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button7.ZOrder" xml:space="preserve">
+    <value>61</value>
+  </data>
+  <data name="button6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>109, 167</value>
+  </data>
+  <data name="button6.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button6.TabIndex" type="System.Int32, mscorlib">
+    <value>91</value>
+  </data>
+  <data name="button6.Text" xml:space="preserve">
+    <value>ब</value>
+  </data>
+  <data name="button6.ToolTip" xml:space="preserve">
+    <value>b</value>
+  </data>
+  <data name="&gt;&gt;button6.Name" xml:space="preserve">
+    <value>button6</value>
+  </data>
+  <data name="&gt;&gt;button6.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button6.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button6.ZOrder" xml:space="preserve">
+    <value>62</value>
+  </data>
+  <data name="button5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>163, 167</value>
+  </data>
+  <data name="button5.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button5.TabIndex" type="System.Int32, mscorlib">
+    <value>90</value>
+  </data>
+  <data name="button5.Text" xml:space="preserve">
+    <value>भ</value>
+  </data>
+  <data name="button5.ToolTip" xml:space="preserve">
+    <value>bH</value>
+  </data>
+  <data name="&gt;&gt;button5.Name" xml:space="preserve">
+    <value>button5</value>
+  </data>
+  <data name="&gt;&gt;button5.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button5.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button5.ZOrder" xml:space="preserve">
+    <value>63</value>
+  </data>
+  <data name="button4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>216, 167</value>
+  </data>
+  <data name="button4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button4.TabIndex" type="System.Int32, mscorlib">
+    <value>89</value>
+  </data>
+  <data name="button4.Text" xml:space="preserve">
+    <value>म</value>
+  </data>
+  <data name="button4.ToolTip" xml:space="preserve">
+    <value>m</value>
+  </data>
+  <data name="&gt;&gt;button4.Name" xml:space="preserve">
+    <value>button4</value>
+  </data>
+  <data name="&gt;&gt;button4.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button4.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button4.ZOrder" xml:space="preserve">
+    <value>64</value>
+  </data>
+  <data name="button3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>269, 167</value>
+  </data>
+  <data name="button3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button3.TabIndex" type="System.Int32, mscorlib">
+    <value>88</value>
+  </data>
+  <data name="button3.Text" xml:space="preserve">
+    <value>य</value>
+  </data>
+  <data name="button3.ToolTip" xml:space="preserve">
+    <value>y</value>
+  </data>
+  <data name="&gt;&gt;button3.Name" xml:space="preserve">
+    <value>button3</value>
+  </data>
+  <data name="&gt;&gt;button3.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button3.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button3.ZOrder" xml:space="preserve">
+    <value>65</value>
+  </data>
+  <data name="button2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>323, 167</value>
+  </data>
+  <data name="button2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button2.TabIndex" type="System.Int32, mscorlib">
+    <value>87</value>
+  </data>
+  <data name="button2.Text" xml:space="preserve">
+    <value>र</value>
+  </data>
+  <data name="button2.ToolTip" xml:space="preserve">
+    <value>r</value>
+  </data>
+  <data name="&gt;&gt;button2.Name" xml:space="preserve">
+    <value>button2</value>
+  </data>
+  <data name="&gt;&gt;button2.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button2.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
+    <value>66</value>
+  </data>
+  <data name="button1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="button1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 66</value>
+  </data>
+  <data name="button1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 43</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>86</value>
+  </data>
+  <data name="button1.Text" xml:space="preserve">
+    <value>क</value>
+  </data>
+  <data name="button1.ToolTip" xml:space="preserve">
+    <value>k</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.24852, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>67</value>
+  </data>
+  <data name="groupBox1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
   <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>2, -4</value>
+    <value>0, 0</value>
+  </data>
+  <data name="groupBox1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="groupBox1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
   </data>
   <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>603, 218</value>
+    <value>808, 266</value>
   </data>
   <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -2464,13 +2665,16 @@
     <value>2</value>
   </data>
   <data name="txtTemp.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 220</value>
+    <value>9, 271</value>
+  </data>
+  <data name="txtTemp.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
   </data>
   <data name="txtTemp.Multiline" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="txtTemp.Size" type="System.Drawing.Size, System.Drawing">
-    <value>593, 20</value>
+    <value>789, 24</value>
   </data>
   <data name="txtTemp.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -8895,10 +9099,10 @@
     <value>True</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
+    <value>8, 16</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>606, 216</value>
+    <value>808, 266</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -9279,6 +9483,12 @@
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAOB/AADA/wAAw/8AAMH/AADD/wAA//8AAA==
 </value>
   </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>Manual</value>
   </data>
@@ -9327,22 +9537,10 @@
   <data name="&gt;&gt;toolStripSeparator1.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;aboutToolStripMenuItem.Name" xml:space="preserve">
-    <value>aboutToolStripMenuItem</value>
+  <data name="&gt;&gt;aboutToolStripMenuItem2.Name" xml:space="preserve">
+    <value>aboutToolStripMenuItem2</value>
   </data>
-  <data name="&gt;&gt;aboutToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;helpToolStripMenuItem1.Name" xml:space="preserve">
-    <value>helpToolStripMenuItem1</value>
-  </data>
-  <data name="&gt;&gt;helpToolStripMenuItem1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;aboutToolStripMenuItem1.Name" xml:space="preserve">
-    <value>aboutToolStripMenuItem1</value>
-  </data>
-  <data name="&gt;&gt;aboutToolStripMenuItem1.Type" xml:space="preserve">
+  <data name="&gt;&gt;aboutToolStripMenuItem2.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;exitToolStripMenuItem.Name" xml:space="preserve">

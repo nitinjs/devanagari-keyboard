@@ -8,17 +8,17 @@
     <ProjectGuid>{18A0E79E-B5AB-40F8-96CF-D516E1ADF3F0}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MarathiApp</RootNamespace>
-    <AssemblyName>Marathi Keyboard</AssemblyName>
+    <RootNamespace>DevanagariApp</RootNamespace>
+    <AssemblyName>Devanagari Keyboard</AssemblyName>
     <ApplicationIcon>050.ico</ApplicationIcon>
-    <StartupObject>MarathiApp.Program</StartupObject>
+    <StartupObject>DevanagariApp.Program</StartupObject>
     <SignManifests>false</SignManifests>
     <ManifestCertificateThumbprint>9612645FEDD5DCBA54424C95A5BCE1250B42B151</ManifestCertificateThumbprint>
     <SignAssembly>false</SignAssembly>
     <AssemblyOriginatorKeyFile>NitinJS.snk</AssemblyOriginatorKeyFile>
     <TargetZone>LocalIntranet</TargetZone>
     <GenerateManifests>true</GenerateManifests>
-    <ManifestKeyFile>MarathiApp_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>DevanagariApp_TemporaryKey.pfx</ManifestKeyFile>
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <FileUpgradeFlags>
     </FileUpgradeFlags>

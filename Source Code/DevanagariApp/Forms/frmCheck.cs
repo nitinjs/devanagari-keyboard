@@ -7,7 +7,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 
-namespace MarathiApp
+namespace DevanagariApp
 {
     public partial class frmCheck : Form
     {

@@ -5,7 +5,7 @@ using System.Threading;
 using System.Windows.Forms;
 using System.ComponentModel;
 
-namespace MarathiApp
+namespace DevanagariApp
 {
     /// <summary>
     /// This class allows you to tap keyboard and mouse and / or to detect their activity even when an 

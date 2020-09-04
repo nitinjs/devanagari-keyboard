@@ -1,4 +1,4 @@
-namespace MarathiApp
+namespace DevanagariApp
 {
     partial class frmHelp
     {

@@ -7,19 +7,19 @@ using System.Text;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
-namespace MarathiApp
+namespace DevanagariApp
 {
     public partial class frmAbout : Form
     {
         public frmAbout()
         {
             InitializeComponent();
-            label3.Text = "© 2009-" + DateTime.Now.Year + " Nitin Sawant, Mumbai";
+            label3.Text = "© 2009-" + DateTime.Now.Year + " Nitin Sawant";
         }
 
         private void label2_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("iexplore.exe", "http://www.nitinsawant.com");
+            System.Diagnostics.Process.Start("iexplore.exe", "https://github.com/nitinjs/devanagari-keyboard");
             this.Close();
         }
 

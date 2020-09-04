@@ -1,6 +1,6 @@
 using Microsoft.Win32;
 using System.Windows.Forms;
-namespace MarathiApp
+namespace DevanagariApp
 {
     class AutoStart
     {

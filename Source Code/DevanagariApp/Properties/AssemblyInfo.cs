@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("मराठी की-बोर्ड")]
+[assembly: AssemblyTitle("देवनागरी की-बोर्ड")]
 [assembly: AssemblyDescription("Created by NITIN, http://www.nitinsawant.com")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("NITIN SAWANT")]
-[assembly: AssemblyProduct("मराठी की-बोर्ड")]
+[assembly: AssemblyProduct("देवनागरी की-बोर्ड")]
 [assembly: AssemblyCopyright("Copyright © http://www.nitinsawant.com")]
 [assembly: AssemblyTrademark("© NITIN SAWANT")]
 [assembly: AssemblyCulture("")]
@@ -29,5 +29,5 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("3.1.0.*")]
-[assembly: AssemblyFileVersion("3.1.0.2")]
+[assembly: AssemblyVersion("4.4.0.*")]
+[assembly: AssemblyFileVersion("4.4.0.0")]

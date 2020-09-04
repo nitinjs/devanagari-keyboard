@@ -4,7 +4,7 @@ using System.Threading;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 
-namespace MarathiApp
+namespace DevanagariApp
 {
     class ClassProcessUtils
     {

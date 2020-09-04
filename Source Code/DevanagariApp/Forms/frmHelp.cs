@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
-namespace MarathiApp
+namespace DevanagariApp
 {
     public partial class frmHelp : Form
     {
