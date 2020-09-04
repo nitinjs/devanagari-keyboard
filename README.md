@@ -8,10 +8,10 @@
 कृपया खालील साईटला भेट द्या:
 https://www.google.com/inputtools/windows/
 
-पण मराठी की-बोर्ड software मराठीमध्ये फास्ट टायपींग साठी वापरता येईल
+पण देवनागरी की-बोर्ड software देवनागरीमध्ये फास्ट टायपींग साठी वापरता येईल
 
-# Marathi Keyboard v4.4 final
-Virtual मराठी की-बोर्ड Software to type in Devnagri script
+# Devnagri Keyboard v4.4 final
+Virtual देवनागरी की-बोर्ड Software to type in Devnagri script
 
 Download setup file from "Release" folder.
 https://github.com/nitinjs/marathi-keyboard/releases/download/4.4/Marathi.Keyboard.Setup.v4.4.exe
