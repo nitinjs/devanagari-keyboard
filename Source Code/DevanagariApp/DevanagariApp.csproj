@@ -76,6 +76,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BL\Appender.cs" />
     <Compile Include="Forms\frmAbout.cs">
       <SubType>Form</SubType>
     </Compile>
