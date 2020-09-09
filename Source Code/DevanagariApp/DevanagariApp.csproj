@@ -77,6 +77,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BL\Appender.cs" />
+    <Compile Include="BL\Extensions.cs" />
     <Compile Include="Forms\frmAbout.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -102,6 +103,12 @@
     </Compile>
     <Compile Include="Forms\frmCheck.Designer.cs">
       <DependentUpon>frmCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmProcrastination.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmProcrastination.Designer.cs">
+      <DependentUpon>frmProcrastination.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\frmSplash.cs">
       <SubType>Form</SubType>
@@ -135,6 +142,9 @@
     <EmbeddedResource Include="Forms\frmCheck.resx">
       <SubType>Designer</SubType>
       <DependentUpon>frmCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmProcrastination.resx">
+      <DependentUpon>frmProcrastination.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\frmSplash.resx">
       <SubType>Designer</SubType>
