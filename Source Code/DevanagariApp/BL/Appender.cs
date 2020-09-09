@@ -10,8 +10,8 @@ namespace DevanagariApp.BL
     public static class Appender
     {
         public static int ThreashHold = 607;//procrastination threashold
-        public static string TempFile = AppDomain.CurrentDomain.BaseDirectory + System.Guid.NewGuid().ToString() + ".bin";
-        public static string TodaysFile = AppDomain.CurrentDomain.BaseDirectory + DateTime.Now.ToString("MM-dd-yyyy") + ".bin";
+        public static string TempFile = AppDomain.CurrentDomain.BaseDirectory + "Files\\" + System.Guid.NewGuid().ToString() + ".bin";
+        public static string TodaysFile = AppDomain.CurrentDomain.BaseDirectory + "Files\\" + DateTime.Now.ToString("MM-dd-yyyy") + ".bin";
 
         public static bool AppendLine(bool isTemp, string s)
         {
@@ -23,8 +23,9 @@ namespace DevanagariApp.BL
                     filePath = TempFile;
                 }
 
-                File.AppendAllLines(filePath, new List<string>() {
-                   (isTemp?"": DateTime.Now.ToString("hh:mm:ss.fff tt") + ": ")+s
+                if (!string.IsNullOrWhiteSpace(s))
+                    File.AppendAllLines(filePath, new List<string>() {
+                   (isTemp?"": (frmMain.procrastination.chkIsVerbose.Checked?DateTime.Now.ToString("hh:mm:ss.fff tt") + ": ":""))+s
                 });
                 return true;
             }
@@ -75,7 +76,8 @@ namespace DevanagariApp.BL
                 var lst = s.ToList();
                 lst.ForEach(x =>
                 {
-                    x = (isTemp ? "" : ("\n\n\n" + DateTime.Now.ToString("hh:mm:ss.fff tt") + ": ")) + x;
+                    if (!string.IsNullOrWhiteSpace(x))
+                        x = (isTemp ? "" : (frmMain.procrastination.chkIsVerbose.Checked ? "\n\n\n" + DateTime.Now.ToString("hh:mm:ss.fff tt") + ": " : "")) + x;
                 });
                 File.AppendAllLines(filePath, lst);
                 return true;
@@ -101,9 +103,9 @@ namespace DevanagariApp.BL
                 }
 
                 string data = ReadAllText(true);
-                Appender.AppendLine(isTemp, data + s + "\n\nStarted at:" + frmMain.prevTime.ToString("hh:mm:ss.fff tt") + "\nEnded at: " + DateTime.Now.ToString("hh:mm:ss.fff tt") + "\nProcrastination Duration: " + t.Humanize());
+                Appender.AppendLine(isTemp, data + s + "\nStarted at:" + frmMain.prevTime.ToString("hh:mm:ss.fff tt") + "\nEnded at: " + DateTime.Now.ToString("hh:mm:ss.fff tt") + "\nProcrastination Duration: " + t.Humanize());
                 TempFile = AppDomain.CurrentDomain.BaseDirectory + System.Guid.NewGuid().ToString() + ".bin";
-                File.AppendAllText(TempFile, "\n******************\n");
+                File.AppendAllText(TempFile, "\n--------------------\n");
             }
         }
     }

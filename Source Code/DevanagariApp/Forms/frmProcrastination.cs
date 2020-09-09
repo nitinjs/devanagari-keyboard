@@ -53,5 +53,15 @@ namespace DevanagariApp.Forms
             {
             }
         }
+
+        private void tmrMain_Tick(object sender, EventArgs e)
+        {
+            tmrMain.Interval = Convert.ToInt32(nmThreashold.Value) * 1000;
+        }
+
+        private void tmrClock_Tick(object sender, EventArgs e)
+        {
+            lblTime.Text = DateTime.Now.ToString("hh:mm:ss tt");
+        }
     }
 }

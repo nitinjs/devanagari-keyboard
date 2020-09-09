@@ -28,13 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             ManiX.Office2010White office2010White1 = new ManiX.Office2010White();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.nmThreashold = new System.Windows.Forms.NumericUpDown();
             this.label3 = new System.Windows.Forms.Label();
-            this.btnClear = new ManiX.XButton();
             this.txtLog = new System.Windows.Forms.RichTextBox();
+            this.chkIsVerbose = new System.Windows.Forms.CheckBox();
+            this.lblTime = new System.Windows.Forms.Label();
+            this.tmrMain = new System.Windows.Forms.Timer(this.components);
+            this.tmrClock = new System.Windows.Forms.Timer(this.components);
+            this.btnClear = new ManiX.XButton();
             ((System.ComponentModel.ISupportInitialize)(this.nmThreashold)).BeginInit();
             this.SuspendLayout();
             // 
@@ -79,6 +84,48 @@
             this.label3.TabIndex = 3;
             this.label3.Text = "seconds";
             // 
+            // txtLog
+            // 
+            this.txtLog.Location = new System.Drawing.Point(15, 78);
+            this.txtLog.Name = "txtLog";
+            this.txtLog.Size = new System.Drawing.Size(773, 360);
+            this.txtLog.TabIndex = 6;
+            this.txtLog.Text = "";
+            // 
+            // chkIsVerbose
+            // 
+            this.chkIsVerbose.AutoSize = true;
+            this.chkIsVerbose.Checked = true;
+            this.chkIsVerbose.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.chkIsVerbose.Location = new System.Drawing.Point(350, 12);
+            this.chkIsVerbose.Name = "chkIsVerbose";
+            this.chkIsVerbose.Size = new System.Drawing.Size(83, 21);
+            this.chkIsVerbose.TabIndex = 7;
+            this.chkIsVerbose.Text = "Verbose";
+            this.chkIsVerbose.UseVisualStyleBackColor = true;
+            // 
+            // lblTime
+            // 
+            this.lblTime.AutoSize = true;
+            this.lblTime.Font = new System.Drawing.Font("Calibri", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTime.Location = new System.Drawing.Point(672, 9);
+            this.lblTime.Name = "lblTime";
+            this.lblTime.Size = new System.Drawing.Size(116, 23);
+            this.lblTime.TabIndex = 8;
+            this.lblTime.Text = "HH:MM:SS.fff";
+            // 
+            // tmrMain
+            // 
+            this.tmrMain.Enabled = true;
+            this.tmrMain.Interval = 1000;
+            this.tmrMain.Tick += new System.EventHandler(this.tmrMain_Tick);
+            // 
+            // tmrClock
+            // 
+            this.tmrClock.Enabled = true;
+            this.tmrClock.Interval = 1000;
+            this.tmrClock.Tick += new System.EventHandler(this.tmrClock_Tick);
+            // 
             // btnClear
             // 
             office2010White1.BorderColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(72)))), ((int)(((byte)(161)))));
@@ -108,20 +155,14 @@
             this.btnClear.UseVisualStyleBackColor = true;
             this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
             // 
-            // txtLog
-            // 
-            this.txtLog.Location = new System.Drawing.Point(15, 78);
-            this.txtLog.Name = "txtLog";
-            this.txtLog.Size = new System.Drawing.Size(773, 360);
-            this.txtLog.TabIndex = 6;
-            this.txtLog.Text = "";
-            // 
             // frmProcrastination
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Lavender;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lblTime);
+            this.Controls.Add(this.chkIsVerbose);
             this.Controls.Add(this.txtLog);
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.label3);
@@ -152,5 +193,9 @@
         public System.Windows.Forms.NumericUpDown nmThreashold;
         private ManiX.XButton btnClear;
         private System.Windows.Forms.RichTextBox txtLog;
+        public System.Windows.Forms.CheckBox chkIsVerbose;
+        private System.Windows.Forms.Label lblTime;
+        private System.Windows.Forms.Timer tmrMain;
+        private System.Windows.Forms.Timer tmrClock;
     }
 }
