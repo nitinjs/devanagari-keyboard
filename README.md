@@ -13,9 +13,6 @@ https://www.google.com/inputtools/windows/
 # Devnagri Keyboard v4.4 final
 Virtual देवनागरी की-बोर्ड Software to type in Devnagri script
 
-Download setup file from "Release" folder.
-https://github.com/nitinjs/marathi-keyboard/releases/download/4.4/Marathi.Keyboard.Setup.v4.4.exe
-
 1. Type in marathi in any windows application easily using virtual keyboard software
 
 2. To switch between Marathi & Hindi language typing mode press "Ctrl+M"
