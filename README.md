@@ -35,5 +35,3 @@ Key Mappings:
 
 For जोडाक्षरे press "SHIFT + A" to join the words
 so if you want to write "क्रुपा" you need to type "kArupa" 
-
-[donate](https://paypal.me/nitinsa1?locale.x=en_GB)
