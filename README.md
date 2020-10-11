@@ -2,7 +2,7 @@
 
 देवनागरी की-बोर्ड software देवनागरीमध्ये फास्ट टायपींग साठी वापरता येईल
 
-![keyboardscreen](https://4.bp.blogspot.com/-HCJd0DB6Rp0/V6SkRIsUlyI/AAAAAAAANCc/QqhGw5x-K2IsW34iEWVmwkfuzbCW2xIJACLcB/s1600/Keyboard_1.JPG)
+![keyboardscreen](https://raw.githubusercontent.com/nitinjs/devanagari-keyboard/master/Screenshot.png)
 
 Virtual देवनागरी की-बोर्ड Software to type in Devnagri script
 
