@@ -1,16 +1,9 @@
-1. language change notification added
-2. added buttons styling
-3. windows 10 os compatibility updated
-4. splash screen added
-
-गुगलने अद्ययावत "Google Input Tools on Windows" ही प्रणाली विकसित केली आहे
-
-कृपया खालील साईटला भेट द्या:
-https://www.google.com/inputtools/windows/
-
-पण देवनागरी की-बोर्ड software देवनागरीमध्ये फास्ट टायपींग साठी वापरता येईल
-
 # Devnagri Keyboard v4.4 final
+
+देवनागरी की-बोर्ड software देवनागरीमध्ये फास्ट टायपींग साठी वापरता येईल
+
+![keyboardscreen](https://4.bp.blogspot.com/-HCJd0DB6Rp0/V6SkRIsUlyI/AAAAAAAANCc/QqhGw5x-K2IsW34iEWVmwkfuzbCW2xIJACLcB/s1600/Keyboard_1.JPG)
+
 Virtual देवनागरी की-बोर्ड Software to type in Devnagri script
 
 1. Type in marathi in any windows application easily using virtual keyboard software
@@ -35,3 +28,15 @@ Key Mappings:
 
 For जोडाक्षरे press "SHIFT + A" to join the words
 so if you want to write "क्रुपा" you need to type "kArupa" 
+
+# changelog
+1. language change notification added
+2. added buttons styling
+3. windows 10 os compatibility updated
+4. splash screen added
+
+# Updates
+गुगलने अद्ययावत "Google Input Tools on Windows" ही प्रणाली विकसित केली आहे
+
+कृपया खालील साईटला भेट द्या:
+https://www.google.com/inputtools/windows/
