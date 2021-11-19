@@ -4,11 +4,15 @@
 
 ![keyboardscreen](https://raw.githubusercontent.com/nitinjs/devanagari-keyboard/master/Screenshot.png)
 
+##Demo Video
+
+[![asciicast](https://i9.ytimg.com/vi_webp/H60HUP7hEvU/mqdefault.webp?v=6197d148&sqp=CLir34wG&rs=AOn4CLD4Ti5AUPMYheh6WLlrQESPpPafDA)](https://www.youtube.com/watch?v=H60HUP7hEvU)
+
 Virtual देवनागरी की-बोर्ड Software to type in Devnagri script
 
 1. Type in marathi in any windows application easily using virtual keyboard software
 
-2. To switch between Marathi & Hindi language typing mode press "Ctrl+M"
+2. To switch between Marathi & English language typing mode press "Ctrl+M"
 
 Key Mappings:
 |     अ : A     |    आ : a   |    इ : i   |    ई: I    |    उ: u   |        ऊ: U        |
@@ -34,9 +38,3 @@ so if you want to write "क्रुपा" you need to type "kArupa"
 2. added buttons styling
 3. windows 10 os compatibility updated
 4. splash screen added
-
-# Updates
-गुगलने अद्ययावत "Google Input Tools on Windows" ही प्रणाली विकसित केली आहे
-
-कृपया खालील साईटला भेट द्या:
-https://www.google.com/inputtools/windows/
