@@ -1,12 +1,12 @@
-# Devnagri Keyboard v4.4 final
+# मराठी की-बोर्ड v4.4 final
 
-देवनागरी की-बोर्ड software देवनागरीमध्ये फास्ट टायपींग साठी वापरता येईल
+मराठी की-बोर्ड software देवनागरीमध्ये फास्ट टायपींग साठी वापरता येईल
 
 ![keyboardscreen](https://raw.githubusercontent.com/nitinjs/devanagari-keyboard/master/Screenshot.png)
 
-##Demo Video
+## Demo Video
 
-[![asciicast](https://i9.ytimg.com/vi_webp/H60HUP7hEvU/mqdefault.webp?v=6197d148&sqp=CLir34wG&rs=AOn4CLD4Ti5AUPMYheh6WLlrQESPpPafDA)](https://www.youtube.com/watch?v=H60HUP7hEvU)
+[![देवनागरी की-बोर्ड](https://img.youtube.com/vi/H60HUP7hEvU/0.jpg)](https://www.youtube.com/watch?v=H60HUP7hEvU)
 
 Virtual देवनागरी की-बोर्ड Software to type in Devnagri script
 
