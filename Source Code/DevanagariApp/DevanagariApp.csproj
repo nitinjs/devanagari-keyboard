@@ -9,7 +9,7 @@
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>DevanagariApp</RootNamespace>
-    <AssemblyName>Devanagari Keyboard</AssemblyName>
+    <AssemblyName>Marathi Keyboard</AssemblyName>
     <ApplicationIcon>050.ico</ApplicationIcon>
     <StartupObject>DevanagariApp.Program</StartupObject>
     <SignManifests>false</SignManifests>

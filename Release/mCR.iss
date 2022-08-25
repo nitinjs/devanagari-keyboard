@@ -6,21 +6,21 @@
 ; Do not use the same AppId value in installers for other applications.
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
 AppId={{4D7F6066-CDB0-4117-8A6F-B3D98E233BDA}
-AppName=Devanagari Keyboard
+AppName=Marathi Keyboard
 ;Version.Month.Year
-AppVerName=Devanagari Keyboard 4.4
-VersionInfoVersion=4.4.0.0
+AppVerName=Marathi Keyboard 4.4.2
+VersionInfoVersion=4.4.2.0
 VersionInfoCopyright="Nitin Sawant"
 AppPublisher=Nitin Sawant
 AppPublisherURL=http://www.nitinsawant.com
-AppSupportURL=http://www.nitinsawant.com
-AppUpdatesURL=http://www.nitinsawant.com
-DefaultDirName={userappdata}\Devanagari Keyboard
-DefaultGroupName=Devanagari Keyboard
+AppSupportURL=https://github.com/nitinjs/devanagari-keyboard/issues
+AppUpdatesURL=https://github.com/nitinjs/devanagari-keyboard/
+DefaultDirName={userappdata}\Marathi Keyboard
+DefaultGroupName=Marathi Keyboard
 AllowNoIcons=yes
-OutputDir=C:\Users\Nitin\source\repos\devanagari-keyboard\Release
-OutputBaseFilename=Devanagari Keyboard Setup
-SetupIconFile=C:\Users\Nitin\source\repos\devanagari-keyboard\Source Code\DevanagariApp\050.ico
+OutputDir=D:\Projects\Nitin\devnagri keyboard\Release
+OutputBaseFilename=Marathi Keyboard Setup
+SetupIconFile=D:\Projects\Nitin\devnagri keyboard\Source Code\DevanagariApp\050.ico
 Compression=lzma
 SolidCompression=yes
 
@@ -32,23 +32,23 @@ Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{
 Name: "quicklaunchicon"; Description: "{cm:CreateQuickLaunchIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "C:\Users\Nitin\source\repos\devanagari-keyboard\Source Code\DevanagariApp\bin\Release\Devanagari Keyboard.exe"; DestDir: "{userappdata}\Devanagari Keyboard"; Flags: ignoreversion
-Source: "C:\Users\Nitin\source\repos\devanagari-keyboard\Source Code\DevanagariApp\bin\Release\Click.wav"; DestDir: "{userappdata}\Devanagari Keyboard"; Flags: ignoreversion
-Source: "C:\Users\Nitin\source\repos\devanagari-keyboard\Source Code\DevanagariApp\bin\Release\Devanagari Keyboard.application"; DestDir: "{userappdata}\Devanagari Keyboard"; Flags: ignoreversion
-Source: "C:\Users\Nitin\source\repos\devanagari-keyboard\Source Code\DevanagariApp\bin\Release\Devanagari Keyboard.pdb"; DestDir: "{userappdata}\Devanagari Keyboard"; Flags: ignoreversion
-Source: "C:\Users\Nitin\source\repos\devanagari-keyboard\Source Code\DevanagariApp\bin\Release\Devanagari Keyboard.exe.manifest"; DestDir: "{userappdata}\Devanagari Keyboard"; Flags: ignoreversion
-Source: "C:\Users\Nitin\source\repos\devanagari-keyboard\Source Code\DevanagariApp\bin\Release\No Sound.wav"; DestDir: "{userappdata}\Devanagari Keyboard"; Flags: ignoreversion
-Source: "C:\Users\Nitin\source\repos\devanagari-keyboard\Source Code\DevanagariApp\bin\Release\mr-IN\*"; DestDir: "{userappdata}\Devanagari Keyboard"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\Projects\Nitin\devnagri keyboard\Source Code\DevanagariApp\bin\Release\Marathi Keyboard.exe"; DestDir: "{userappdata}\Marathi Keyboard"; Flags: ignoreversion
+Source: "D:\Projects\Nitin\devnagri keyboard\Source Code\DevanagariApp\bin\Release\Click.wav"; DestDir: "{userappdata}\Marathi Keyboard"; Flags: ignoreversion
+Source: "D:\Projects\Nitin\devnagri keyboard\Source Code\DevanagariApp\bin\Release\Marathi Keyboard.application"; DestDir: "{userappdata}\Marathi Keyboard"; Flags: ignoreversion
+Source: "D:\Projects\Nitin\devnagri keyboard\Source Code\DevanagariApp\bin\Release\Marathi Keyboard.pdb"; DestDir: "{userappdata}\Marathi Keyboard"; Flags: ignoreversion
+Source: "D:\Projects\Nitin\devnagri keyboard\Source Code\DevanagariApp\bin\Release\Marathi Keyboard.exe.manifest"; DestDir: "{userappdata}\Marathi Keyboard"; Flags: ignoreversion
+Source: "D:\Projects\Nitin\devnagri keyboard\Source Code\DevanagariApp\bin\Release\No Sound.wav"; DestDir: "{userappdata}\Marathi Keyboard"; Flags: ignoreversion
+Source: "D:\Projects\Nitin\devnagri keyboard\Source Code\DevanagariApp\bin\Release\mr-IN\*"; DestDir: "{userappdata}\Marathi Keyboard"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
-Name: "{group}\Devanagari Keyboard"; Filename: "{app}\Devanagari Keyboard.exe"
-Name: "{group}\{cm:ProgramOnTheWeb,Devanagari Keyboard}"; Filename: "http://www.nitinsawant.com"
-Name: "{group}\{cm:UninstallProgram,Devanagari Keyboard}"; Filename: "{uninstallexe}"
-Name: "{commondesktop}\Marathi Keyboard"; Filename: "{app}\Devanagari Keyboard.exe"; Tasks: desktopicon
-Name: "{userappdata}\Microsoft\Internet Explorer\Quick Launch\Marathi Keyboard"; Filename: "{app}\Devanagari Keyboard.exe"; Tasks: quicklaunchicon
+Name: "{group}\Marathi Keyboard"; Filename: "{app}\Marathi Keyboard.exe"
+Name: "{group}\{cm:ProgramOnTheWeb,Marathi Keyboard}"; Filename: "http://www.nitinsawant.com"
+Name: "{group}\{cm:UninstallProgram,Marathi Keyboard}"; Filename: "{uninstallexe}"
+Name: "{commondesktop}\Marathi Keyboard"; Filename: "{app}\Marathi Keyboard.exe"; Tasks: desktopicon
+Name: "{userappdata}\Microsoft\Internet Explorer\Quick Launch\Marathi Keyboard"; Filename: "{app}\Marathi Keyboard.exe"; Tasks: quicklaunchicon
 
 [Run]
-Filename: "{app}\Devanagari Keyboard.exe"; Description: "{cm:LaunchProgram,Devanagari Keyboard}"; Flags: nowait postinstall skipifsilent
+Filename: "{app}\Marathi Keyboard.exe"; Description: "{cm:LaunchProgram,Marathi Keyboard}"; Flags: nowait postinstall skipifsilent
 
 
