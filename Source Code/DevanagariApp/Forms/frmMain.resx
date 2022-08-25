@@ -122,19 +122,23 @@
   </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="hideToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>210, 26</value>
+    <value>194, 26</value>
   </data>
   <data name="hideToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;Hide</value>
   </data>
   <data name="clearToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>210, 26</value>
+    <value>194, 26</value>
   </data>
   <data name="clearToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;Clear text</value>
   </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="clearToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="enabledToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>210, 26</value>
+    <value>194, 26</value>
   </data>
   <data name="enabledToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;Enabled    Ctrl+M</value>
@@ -152,10 +156,13 @@
     <value>View &amp;&amp; Configure</value>
   </data>
   <data name="procrastinationToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>210, 26</value>
+    <value>194, 26</value>
   </data>
   <data name="procrastinationToolStripMenuItem.Text" xml:space="preserve">
     <value>Procrastination</value>
+  </data>
+  <data name="procrastinationToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
   </data>
   <data name="onToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>113, 26</value>
@@ -170,28 +177,28 @@
     <value>Off</value>
   </data>
   <data name="clickSoundToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>210, 26</value>
+    <value>194, 26</value>
   </data>
   <data name="clickSoundToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;Sound</value>
   </data>
   <data name="toolStripSeparator1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>207, 6</value>
+    <value>191, 6</value>
   </data>
   <data name="aboutToolStripMenuItem2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>210, 26</value>
+    <value>194, 26</value>
   </data>
   <data name="aboutToolStripMenuItem2.Text" xml:space="preserve">
     <value>&amp;About</value>
   </data>
   <data name="exitToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>210, 26</value>
+    <value>194, 26</value>
   </data>
   <data name="exitToolStripMenuItem.Text" xml:space="preserve">
     <value>E&amp;xit</value>
   </data>
   <data name="ctxMarathi.Size" type="System.Drawing.Size, System.Drawing">
-    <value>211, 220</value>
+    <value>195, 192</value>
   </data>
   <data name="&gt;&gt;ctxMarathi.Name" xml:space="preserve">
     <value>ctxMarathi</value>
@@ -218,7 +225,6 @@
   <data name="button67.Size" type="System.Drawing.Size, System.Drawing">
     <value>45, 43</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="button67.TabIndex" type="System.Int32, mscorlib">
     <value>154</value>
   </data>
@@ -232,7 +238,7 @@
     <value>button67</value>
   </data>
   <data name="&gt;&gt;button67.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button67.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -268,7 +274,7 @@
     <value>btnEnter</value>
   </data>
   <data name="&gt;&gt;btnEnter.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;btnEnter.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -304,7 +310,7 @@
     <value>button66</value>
   </data>
   <data name="&gt;&gt;button66.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button66.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -340,7 +346,7 @@
     <value>button59</value>
   </data>
   <data name="&gt;&gt;button59.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button59.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -376,7 +382,7 @@
     <value>button64</value>
   </data>
   <data name="&gt;&gt;button64.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button64.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -412,7 +418,7 @@
     <value>button60</value>
   </data>
   <data name="&gt;&gt;button60.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button60.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -448,7 +454,7 @@
     <value>button65</value>
   </data>
   <data name="&gt;&gt;button65.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button65.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -484,7 +490,7 @@
     <value>button61</value>
   </data>
   <data name="&gt;&gt;button61.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button61.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -520,7 +526,7 @@
     <value>button62</value>
   </data>
   <data name="&gt;&gt;button62.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button62.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -556,7 +562,7 @@
     <value>button63</value>
   </data>
   <data name="&gt;&gt;button63.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button63.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -592,7 +598,7 @@
     <value>button53</value>
   </data>
   <data name="&gt;&gt;button53.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button53.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -628,7 +634,7 @@
     <value>button54</value>
   </data>
   <data name="&gt;&gt;button54.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button54.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -664,7 +670,7 @@
     <value>button55</value>
   </data>
   <data name="&gt;&gt;button55.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button55.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -700,7 +706,7 @@
     <value>button56</value>
   </data>
   <data name="&gt;&gt;button56.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button56.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -736,7 +742,7 @@
     <value>button57</value>
   </data>
   <data name="&gt;&gt;button57.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button57.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -772,7 +778,7 @@
     <value>button58</value>
   </data>
   <data name="&gt;&gt;button58.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button58.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -808,7 +814,7 @@
     <value>button49</value>
   </data>
   <data name="&gt;&gt;button49.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button49.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -844,7 +850,7 @@
     <value>button52</value>
   </data>
   <data name="&gt;&gt;button52.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button52.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -880,7 +886,7 @@
     <value>button51</value>
   </data>
   <data name="&gt;&gt;button51.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button51.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -916,7 +922,7 @@
     <value>button50</value>
   </data>
   <data name="&gt;&gt;button50.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button50.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -952,7 +958,7 @@
     <value>button48</value>
   </data>
   <data name="&gt;&gt;button48.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button48.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -988,7 +994,7 @@
     <value>button47</value>
   </data>
   <data name="&gt;&gt;button47.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button47.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1024,7 +1030,7 @@
     <value>button38</value>
   </data>
   <data name="&gt;&gt;button38.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button38.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1060,7 +1066,7 @@
     <value>button46</value>
   </data>
   <data name="&gt;&gt;button46.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button46.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1096,7 +1102,7 @@
     <value>button35</value>
   </data>
   <data name="&gt;&gt;button35.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button35.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1132,7 +1138,7 @@
     <value>button45</value>
   </data>
   <data name="&gt;&gt;button45.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button45.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1168,7 +1174,7 @@
     <value>button44</value>
   </data>
   <data name="&gt;&gt;button44.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button44.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1204,7 +1210,7 @@
     <value>button43</value>
   </data>
   <data name="&gt;&gt;button43.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button43.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1240,7 +1246,7 @@
     <value>button42</value>
   </data>
   <data name="&gt;&gt;button42.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button42.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1276,7 +1282,7 @@
     <value>button41</value>
   </data>
   <data name="&gt;&gt;button41.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button41.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1312,7 +1318,7 @@
     <value>button40</value>
   </data>
   <data name="&gt;&gt;button40.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button40.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1348,7 +1354,7 @@
     <value>button39</value>
   </data>
   <data name="&gt;&gt;button39.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button39.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1384,7 +1390,7 @@
     <value>button34</value>
   </data>
   <data name="&gt;&gt;button34.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button34.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1420,7 +1426,7 @@
     <value>button37</value>
   </data>
   <data name="&gt;&gt;button37.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button37.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1456,7 +1462,7 @@
     <value>button36</value>
   </data>
   <data name="&gt;&gt;button36.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button36.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1492,7 +1498,7 @@
     <value>button33</value>
   </data>
   <data name="&gt;&gt;button33.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button33.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1528,7 +1534,7 @@
     <value>button32</value>
   </data>
   <data name="&gt;&gt;button32.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button32.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1564,7 +1570,7 @@
     <value>button31</value>
   </data>
   <data name="&gt;&gt;button31.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button31.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1600,7 +1606,7 @@
     <value>button30</value>
   </data>
   <data name="&gt;&gt;button30.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button30.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1636,7 +1642,7 @@
     <value>button29</value>
   </data>
   <data name="&gt;&gt;button29.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button29.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1672,7 +1678,7 @@
     <value>button28</value>
   </data>
   <data name="&gt;&gt;button28.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button28.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1708,7 +1714,7 @@
     <value>button27</value>
   </data>
   <data name="&gt;&gt;button27.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button27.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1744,7 +1750,7 @@
     <value>button26</value>
   </data>
   <data name="&gt;&gt;button26.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button26.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1780,7 +1786,7 @@
     <value>button25</value>
   </data>
   <data name="&gt;&gt;button25.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button25.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1816,7 +1822,7 @@
     <value>button24</value>
   </data>
   <data name="&gt;&gt;button24.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button24.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1852,7 +1858,7 @@
     <value>button23</value>
   </data>
   <data name="&gt;&gt;button23.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button23.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1888,7 +1894,7 @@
     <value>button22</value>
   </data>
   <data name="&gt;&gt;button22.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button22.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1924,7 +1930,7 @@
     <value>button21</value>
   </data>
   <data name="&gt;&gt;button21.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button21.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1960,7 +1966,7 @@
     <value>button20</value>
   </data>
   <data name="&gt;&gt;button20.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button20.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -1996,7 +2002,7 @@
     <value>button19</value>
   </data>
   <data name="&gt;&gt;button19.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button19.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2032,7 +2038,7 @@
     <value>button18</value>
   </data>
   <data name="&gt;&gt;button18.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button18.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2068,7 +2074,7 @@
     <value>button17</value>
   </data>
   <data name="&gt;&gt;button17.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button17.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2104,7 +2110,7 @@
     <value>button16</value>
   </data>
   <data name="&gt;&gt;button16.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button16.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2140,7 +2146,7 @@
     <value>button15</value>
   </data>
   <data name="&gt;&gt;button15.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button15.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2176,7 +2182,7 @@
     <value>button14</value>
   </data>
   <data name="&gt;&gt;button14.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button14.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2212,7 +2218,7 @@
     <value>button13</value>
   </data>
   <data name="&gt;&gt;button13.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button13.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2248,7 +2254,7 @@
     <value>button12</value>
   </data>
   <data name="&gt;&gt;button12.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button12.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2284,7 +2290,7 @@
     <value>button11</value>
   </data>
   <data name="&gt;&gt;button11.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button11.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2320,7 +2326,7 @@
     <value>button10</value>
   </data>
   <data name="&gt;&gt;button10.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button10.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2356,7 +2362,7 @@
     <value>button9</value>
   </data>
   <data name="&gt;&gt;button9.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button9.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2392,7 +2398,7 @@
     <value>button8</value>
   </data>
   <data name="&gt;&gt;button8.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button8.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2428,7 +2434,7 @@
     <value>button7</value>
   </data>
   <data name="&gt;&gt;button7.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button7.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2464,7 +2470,7 @@
     <value>button6</value>
   </data>
   <data name="&gt;&gt;button6.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button6.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2500,7 +2506,7 @@
     <value>button5</value>
   </data>
   <data name="&gt;&gt;button5.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button5.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2536,7 +2542,7 @@
     <value>button4</value>
   </data>
   <data name="&gt;&gt;button4.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button4.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2572,7 +2578,7 @@
     <value>button3</value>
   </data>
   <data name="&gt;&gt;button3.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button3.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2608,7 +2614,7 @@
     <value>button2</value>
   </data>
   <data name="&gt;&gt;button2.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button2.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -2644,7 +2650,7 @@
     <value>button1</value>
   </data>
   <data name="&gt;&gt;button1.Type" xml:space="preserve">
-    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.30043, Culture=neutral, PublicKeyToken=null</value>
+    <value>ManiX.XButton, Devanagari Keyboard, Version=4.4.0.13433, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;button1.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -9500,6 +9506,9 @@
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D8AAMAHAACAAAAAAAAAAAAA
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAOB/AADA/wAAw/8AAMH/AADD/wAA//8AAA==
 </value>
+  </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
